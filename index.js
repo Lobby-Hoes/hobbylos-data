@@ -7,9 +7,14 @@ const typeDefs = gql`
     type Geschichten {
         titel: String
         ort: String
-        geschichte: String
         typ: String
         geo: [Float]
+        startzeit: String
+        endzeit: String
+        geschichte: String
+        folge: String
+        folgenname: String
+        code: String
     }
 
     type Staedtegeschichten {
@@ -23,11 +28,14 @@ const typeDefs = gql`
         endzeit: String
         thema: String
         beschreibung: String
+        folge: String
+        folgenname: String
+        code: String
     }
 
     type Folge {
         folge: String
-        name: String
+        folgenname: String
         code: String
         staedtegeschichten: Staedtegeschichten
         mathefacts: Mathefacts
@@ -38,6 +46,8 @@ const typeDefs = gql`
     # case, the "folgen" query returns an array of zero or more Folge (defined above).
     type Query {
         folgen: [Folge]
+        staedtegeschichten: [Geschichten]
+        mathefacts: [Mathefacts]
     }
 `;
 const JsonData = require('./data.json')
@@ -46,7 +56,27 @@ const JsonData = require('./data.json')
 // schema. This resolver retrieves books from the "folgen" array above.
 const resolvers = {
     Query: {
-        folgen: () => JsonData.data
+        folgen: () => JsonData.data,
+        staedtegeschichten(parent, args, context, info) {
+            let geschichten = []
+            JsonData.data.forEach((folge) => {
+                if (typeof folge.staedtegeschichten !== 'undefined') {
+                    folge.staedtegeschichten.geschichten.forEach((geschichte) => {
+                        geschichten.push(Object.assign(geschichte, {"startzeit": folge.staedtegeschichten.startzeit},{"endzeit": folge.staedtegeschichten.endzeit}, {"folge": folge.folge}, {"folgenname": folge.folgenname}, {"code": folge.code}))
+                    })
+                }
+            });
+            return geschichten
+        },
+        mathefacts(parent, args, context, info) {
+            let mathefacts = []
+            JsonData.data.forEach((folge) => {
+                if (typeof folge.mathefacts !== 'undefined') {
+                        mathefacts.push(Object.assign(folge.mathefacts, {"folge": folge.folge}, {"folgenname": folge.folgenname}, {"code": folge.code}))
+                }
+            });
+            return mathefacts
+        }
     }
 };
 

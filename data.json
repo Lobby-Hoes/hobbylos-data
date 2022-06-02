@@ -2,7 +2,7 @@
   "data": [
     {
       "folge": "1",
-      "name": "Hobbylos: Die Geburt",
+      "folgenname": "Hobbylos: Die Geburt",
       "code": "42X47cqhqvxrAFIbBQS5g2",
       "mathefacts": {
         "startzeit": "00:00:00",
@@ -13,7 +13,7 @@
     },
     {
       "folge": "2",
-      "name": "Die alte Hure",
+      "folgenname": "Die alte Hure",
       "code": "44YlsfYiLVB0OlNAeaQh68",
       "mathefacts": {
         "startzeit": "00:00:00",
@@ -24,7 +24,7 @@
     },
     {
       "folge": "3",
-      "name": "Tequila Shots und Tinder Dates",
+      "folgenname": "Tequila Shots und Tinder Dates",
       "code": "3Vrl7bt7tL77iQYpwVwM3K",
       "mathefacts": {
         "thema": "(über-)abzählbare Unendlichkeit",
@@ -35,7 +35,7 @@
     },
     {
       "folge": "4",
-      "name": "Glied im Penis",
+      "folgenname": "Glied im Penis",
       "code": "6wo1yhYid01lstGMswpUCi",
       "mathefacts": {
         "thema": "Gödelscher Unvollständigkeitssatz",
@@ -46,7 +46,7 @@
     },
     {
       "folge": "5",
-      "name": "Spannen, Schmusen und Scheiden",
+      "folgenname": "Spannen, Schmusen und Scheiden",
       "code": "51Z7lK1XKBl19PGAQ3O0bk",
       "mathefacts": {
         "thema": "52!",
@@ -57,7 +57,7 @@
     },
     {
       "folge": "6",
-      "name": "Der kleine Chinese auf dem Dreirad",
+      "folgenname": "Der kleine Chinese auf dem Dreirad",
       "code": "2H2MyhwTuNS2cFxpIrZGIN",
       "mathefacts": {
         "thema": "Sampling bias am Beispiel des Freundschaftsparadox",
@@ -68,7 +68,7 @@
     },
     {
       "folge": "7",
-      "name": "Fanatische Fans und Dirty Griechen",
+      "folgenname": "Fanatische Fans und Dirty Griechen",
       "code": "7zRtH3sUo15Rlpl7jWZXj7",
       "mathefacts": {
         "thema": "Satz des Pythagoras geklaut?",
@@ -79,7 +79,7 @@
     },
     {
       "folge": "8",
-      "name": "Milf Hunter GmbH",
+      "folgenname": "Milf Hunter GmbH",
       "code": "71KJlTwc6jpIe2k2pJQ4jt",
       "mathefacts": {
         "thema": "Millennium-Probleme / die Poincaré-Vermutung",
@@ -90,7 +90,7 @@
     },
     {
       "folge": "9",
-      "name": "Menschen Lutschen",
+      "folgenname": "Menschen Lutschen",
       "code": "3904JJsYA3E1beykLMSTS9",
       "mathefacts": {
         "thema": "Satz von Borsuk-Ulam",
@@ -101,7 +101,7 @@
     },
     {
       "folge": "10",
-      "name": "Apropos N4z!s",
+      "folgenname": "Apropos N4z!s",
       "code": "5wICQ3MKQtFiYQQ7NWdNhB",
       "mathefacts": {
         "thema": "Survivorship Bias",
@@ -112,7 +112,7 @@
     },
     {
       "folge": "11",
-      "name": "Ju wurde verhaftet",
+      "folgenname": "Ju wurde verhaftet",
       "code": "3O19YWz6C6RRAbET61iBiW",
       "mathefacts": {
         "thema": "Visualisierung der Fakultät von 52",
@@ -123,7 +123,7 @@
     },
     {
       "folge": "12",
-      "name": "Ihre Körper voller Öl",
+      "folgenname": "Ihre Körper voller Öl",
       "code": "1hBhQM3Arz0Yi5irttqMCl",
       "mathefacts": {
         "thema": "Fixpunktsatz von Banach",
@@ -134,7 +134,7 @@
     },
     {
       "folge": "13",
-      "name": "Sattel mit Pimmel verkauft",
+      "folgenname": "Sattel mit Pimmel verkauft",
       "code": "0IlRXGnkqnWZro8ruY3t5r",
       "mathefacts": {
         "thema": "Fliesen in Fünfecken zusammenlegen ohne Lücken",
@@ -145,7 +145,7 @@
     },
     {
       "folge": "14",
-      "name": "Analplugs und Stiefmütter",
+      "folgenname": "Analplugs und Stiefmütter",
       "code": "4lPTPLPb7twZf83LYVixY6",
       "mathefacts": {
         "thema": "Gabriels Horn",
@@ -156,7 +156,7 @@
     },
     {
       "folge": "15",
-      "name": "Mit dieser Folge machen wir uns leider strafbar",
+      "folgenname": "Mit dieser Folge machen wir uns leider strafbar",
       "code": "5rpDiA30jT4gtvtpOYNqIe",
       "mathefacts": {
         "thema": "Die Zahl Googol",
@@ -167,7 +167,7 @@
     },
     {
       "folge": "16",
-      "name": "Warum ihr Hoes seid <3",
+      "folgenname": "Warum ihr Hoes seid <3",
       "code": "3PL49YhHUus0zMJPmBNHZR",
       "mathefacts": {
         "thema": "Fermats letzter Satz",
@@ -178,7 +178,7 @@
     },
     {
       "folge": "17",
-      "name": "Wir wollen näher an euren  Müttern sein",
+      "folgenname": "Wir wollen näher an euren  Müttern sein",
       "code": "1lZnHtjuBhZOoE7A4UiKg2",
       "mathefacts": {
         "thema": "Jus kleine Facts",
@@ -189,7 +189,7 @@
     },
     {
       "folge": "18",
-      "name": "Zerstörung der Coronaviren",
+      "folgenname": "Zerstörung der Coronaviren",
       "code": "2Ni5wnkBHWpkknoiaNqMTs",
       "mathefacts": {
         "thema": "Die krasseste Zahl",
@@ -200,7 +200,7 @@
     },
     {
       "folge": "19",
-      "name": "Darf man sowas über Religion sagen?",
+      "folgenname": "Darf man sowas über Religion sagen?",
       "code": "5WVSXyKyGnijOmAjisngdK",
       "mathefacts": {
         "thema": "Warum Lobbyhoes überall die 37 sehen",
@@ -211,7 +211,7 @@
     },
     {
       "folge": "20",
-      "name": "Im Bordell erkannt :/",
+      "folgenname": "Im Bordell erkannt :/",
       "code": "4HeKz3m9ufdELILopv32Il",
       "mathefacts": {
         "thema": "Wie wurde Pi herausgefunden?",
@@ -222,7 +222,7 @@
     },
     {
       "folge": "21",
-      "name": "Lehrer behandelt Schülerinnen wie Hunde?? o_O",
+      "folgenname": "Lehrer behandelt Schülerinnen wie Hunde?? o_O",
       "code": "608s0wwioaBWfEFboXCLMr",
       "mathefacts": {
         "thema": "Pi sollte auf 3,2 festgelegt werden",
@@ -233,7 +233,7 @@
     },
     {
       "folge": "22",
-      "name": "Warum Schweizer jetzt Steine nach uns werfen",
+      "folgenname": "Warum Schweizer jetzt Steine nach uns werfen",
       "code": "1jPlpgtiuKbdYCXqtQSynI",
       "mathefacts": {
         "thema": "Zipfsches Gesetz",
@@ -244,7 +244,7 @@
     },
     {
       "folge": "23",
-      "name": "Unsere letzte Folge :)",
+      "folgenname": "Unsere letzte Folge :)",
       "code": "6uvh6TNvjo7pD06gWi1elp",
       "mathefacts": {
         "thema": "Computer können manchmal nicht zählen",
@@ -255,7 +255,7 @@
     },
     {
       "folge": "24",
-      "name": "\"Ja dann, Hose  runter\" sagte sie...",
+      "folgenname": "\"Ja dann, Hose  runter\" sagte sie...",
       "code": "3Y4zDLFQ69loKxZCBtmdrZ",
       "mathefacts": {
         "thema": "",
@@ -266,7 +266,7 @@
     },
     {
       "folge": "25",
-      "name": "Wer hat die Vorhaut von Jesus geklaut?",
+      "folgenname": "Wer hat die Vorhaut von Jesus geklaut?",
       "code": "609sVKgV3niXKGS2oUWNyQ",
       "mathefacts": {
         "thema": "",
@@ -277,7 +277,7 @@
     },
     {
       "folge": "26",
-      "name": "Darf man solche Inzest-Jokes noch machen?",
+      "folgenname": "Darf man solche Inzest-Jokes noch machen?",
       "code": "497fZWxa0WfEeSMW6INczK",
       "mathefacts": {
         "thema": "Ramanujan das Mathe-Wunder",
@@ -288,7 +288,7 @@
     },
     {
       "folge": "27",
-      "name": "Nur ich gucke diese nackte Oma an",
+      "folgenname": "Nur ich gucke diese nackte Oma an",
       "code": "17m6e1xVKx05RmKXpCbJGl",
       "mathefacts": {
         "thema": "Unendlich ist keine Zahl sondern ein Konzept",
@@ -299,7 +299,7 @@
     },
     {
       "folge": "28",
-      "name": "Sorry an alle Lobbyhoes",
+      "folgenname": "Sorry an alle Lobbyhoes",
       "code": "5ckzN68XZ1U9HWD4EeMueQ",
       "mathefacts": {
         "thema": "Kein Fact",
@@ -310,7 +310,7 @@
     },
     {
       "folge": "29",
-      "name": "Corona Ju wird doch nicht Vater",
+      "folgenname": "Corona Ju wird doch nicht Vater",
       "code": "5TnorfeIHNmKNNHtG3nmLs",
       "mathefacts": {
         "thema": "Größenverhältnisse von Unendlichkeiten (aleph number)",
@@ -321,7 +321,7 @@
     },
     {
       "folge": "30",
-      "name": "Valentinstag-Special: Dating & S3x Fails von euch",
+      "folgenname": "Valentinstag-Special: Dating & S3x Fails von euch",
       "code": "2wVOaNtFZpUKyXglV5nR3E",
       "mathefacts": {
         "thema": "Kein Fact",
@@ -332,7 +332,7 @@
     },
     {
       "folge": "31",
-      "name": "Send nudes Geburtsurkunde",
+      "folgenname": "Send nudes Geburtsurkunde",
       "code": "1xwjns2dlxU2tFSYuprrJz",
       "mathefacts": {
         "thema": "Kein Fact",
@@ -343,7 +343,7 @@
     },
     {
       "folge": "32",
-      "name": "Auf der Suche nach Männlichkeit",
+      "folgenname": "Auf der Suche nach Männlichkeit",
       "code": "56WGo0cqL2L8sUZKANFnxQ",
       "mathefacts": {
         "thema": "die Enigma Verschlüsselungsmaschine",
@@ -354,7 +354,7 @@
     },
     {
       "folge": "33",
-      "name": "Ihr wollt Beef? Ihr bekommt Beef...",
+      "folgenname": "Ihr wollt Beef? Ihr bekommt Beef...",
       "code": "3tbnRQ0rXaE4ScZo5WolCW",
       "mathefacts": {
         "thema": "Menschen sind kacke in Zufälligkeiten",
@@ -365,7 +365,7 @@
     },
     {
       "folge": "34",
-      "name": "Mein Kitzler ist größer als dein Schwanz, du Loser",
+      "folgenname": "Mein Kitzler ist größer als dein Schwanz, du Loser",
       "code": "2p6Uv4L3TIpcIRPd1eGc57",
       "mathefacts": {
         "thema": "Gehen Youtube die Möglichkeiten für URLs aus?",
@@ -376,7 +376,7 @@
     },
     {
       "folge": "35",
-      "name": " Diese Oma wird morgen geschubst O_o",
+      "folgenname": " Diese Oma wird morgen geschubst O_o",
       "code": "187AfcaKMpBokqsPeoDWjj",
       "mathefacts": {
         "thema": "Egocentric bias",
@@ -387,7 +387,7 @@
     },
     {
       "folge": "36",
-      "name": "Klon-Handjob = Safe",
+      "folgenname": "Klon-Handjob = Safe",
       "code": "5WsJslr1eRZYpz8LWrrfTr",
       "mathefacts": {
         "thema": "Leben wir in einer Simulation?",
@@ -398,7 +398,7 @@
     },
     {
       "folge": "37",
-      "name": "Safe kassiere ich dafür jetzt auch ne Schelle †",
+      "folgenname": "Safe kassiere ich dafür jetzt auch ne Schelle †",
       "code": "01wyvEHwHdJQuZ7ZN6eslS",
       "mathefacts": {
         "thema": "Fermi Paradoxon",
@@ -409,7 +409,7 @@
     },
     {
       "folge": "38",
-      "name": "Sie gab mir Starthilfe beim Kotzen - bäh.",
+      "folgenname": "Sie gab mir Starthilfe beim Kotzen - bäh.",
       "code": "6dgBVM5UT9IXkUPQhPROMw",
       "mathefacts": {
         "thema": "Das kann doch kein Zufall sein…",
@@ -420,7 +420,7 @@
     },
     {
       "folge": "39",
-      "name": "Wir alle haben kleine NeoN4z!s im Blut",
+      "folgenname": "Wir alle haben kleine NeoN4z!s im Blut",
       "code": "7rezMhxcZpDp8YGvaOI3Vq",
       "mathefacts": {
         "thema": "Geschichte der Lichtgeschwindigkeit",
@@ -431,7 +431,7 @@
     },
     {
       "folge": "40",
-      "name": "Angina Merkel ist 27 Schwanz groß",
+      "folgenname": "Angina Merkel ist 27 Schwanz groß",
       "code": "2VJBEMxI8nJEKETsRLemDM",
       "mathefacts": {
         "thema": "Wer sagt, was ein Meter ist",
@@ -442,7 +442,7 @@
     },
     {
       "folge": "41",
-      "name": "Sex mit Lobbyhoes  > > > ",
+      "folgenname": "Sex mit Lobbyhoes  > > > ",
       "code": "6bYuILUJUtW0hJ1GPYT4sx",
       "mathefacts": {
         "thema": "Das Großvater-Paradoxon",
@@ -453,7 +453,7 @@
     },
     {
       "folge": "42",
-      "name": "Pastor shootet auf Kinder",
+      "folgenname": "Pastor shootet auf Kinder",
       "code": "6JkZl7lxbp8mexhQuYEC6n",
       "mathefacts": {
         "thema": "Schaltjahre",
@@ -464,7 +464,7 @@
     },
     {
       "folge": "43",
-      "name": "Böhmi wir sind clean, Ehrenwort!!!",
+      "folgenname": "Böhmi wir sind clean, Ehrenwort!!!",
       "code": "4a1VKKkz6EiSjK9xaAnhcl",
       "mathefacts": {
         "thema": "Generieren von Informationen durch einen Brute-Force Ansatz",
@@ -475,7 +475,7 @@
     },
     {
       "folge": "44",
-      "name": "Eichelkäse am Hodensack",
+      "folgenname": "Eichelkäse am Hodensack",
       "code": "3Gq2Z7gh4EGSBzKjhyXCb7",
       "mathefacts": {
         "thema": "Summe aller natürlichen Zahlen",
@@ -486,7 +486,7 @@
     },
     {
       "folge": "45",
-      "name": "Sperma snacken für die Wissenschaft",
+      "folgenname": "Sperma snacken für die Wissenschaft",
       "code": "0wxBAk7AMpCvHZTHuo1e7B",
       "mathefacts": {
         "startzeit": "00:00:00",
