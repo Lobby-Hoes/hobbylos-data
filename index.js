@@ -113,8 +113,8 @@ async function startApolloServer() {
         // Make sure these files are secured.
         httpServer = https.createServer(
             {
-                key: fs.readFileSync(`./ssl/server.key`),
-                cert: fs.readFileSync(`./ssl/server.crt`),
+                key: fs.readFileSync(`./ssl/data.hobbylos.online/server.key`),
+                cert: fs.readFileSync(`./ssl/data.hobbylos.online/server.crt`),
             },
 
             app,
