@@ -1,4 +1,11 @@
-const {ApolloServer, gql} = require('apollo-server');
+import express from 'express';
+import { ApolloServer, gql } from 'apollo-server-express';
+import fs from 'fs';
+import https from 'https';
+import http from 'http';
+import { createRequire } from "module";
+const require = createRequire(import.meta.url);
+const JsonData = require('./data.json')
 
 // A schema is a collection of type definitions (hence "typeDefs")
 // that together define the "shape" of queries that are executed against
@@ -50,7 +57,6 @@ const typeDefs = gql`
         mathefacts: [Mathefacts]
     }
 `;
-const JsonData = require('./data.json')
 
 // Resolvers define the technique for fetching the types defined in the
 // schema. This resolver retrieves books from the "folgen" array above.
@@ -80,15 +86,55 @@ const resolvers = {
     }
 };
 
-// The ApolloServer constructor requires two parameters: your schema
-// definition and your set of resolvers.
-const server = new ApolloServer({
-    typeDefs,
-    resolvers,
-    csrfPrevention: true,
-});
+async function startApolloServer() {
+    const configurations = {
+        // Note: You may need sudo to run on port 443
+        production: { ssl: true, port: 443, hostname: 'data.hobbylos.online' },
+        development: { ssl: false, port: 4000, hostname: 'localhost' },
+    };
+    const environment = process.env.NODE_ENV || 'production';
+    const config = configurations[environment];
 
-// The `listen` method launches a web server.
-server.listen().then(({url}) => {
-    console.log(`🚀  Server ready at ${url}`);
-});
+    const server = new ApolloServer({
+        typeDefs,
+        resolvers,
+        csrfPrevention: true,
+    });
+    await server.start();
+
+    const app = express();
+    server.applyMiddleware({ app });
+
+    // Create the HTTPS or HTTP server, per configuration
+    let httpServer;
+
+    if (config.ssl) {
+        // Assumes certificates are in a .ssl folder off of the package root.
+        // Make sure these files are secured.
+        httpServer = https.createServer(
+            {
+                key: fs.readFileSync(`./ssl/server.key`),
+                cert: fs.readFileSync(`./ssl/server.crt`),
+            },
+
+            app,
+        );
+    } else {
+        httpServer = http.createServer(app);
+    }
+
+    await new Promise(resolve =>
+        httpServer.listen({ port: config.port }, resolve),
+    );
+
+    console.log(
+        '🚀 Server ready at',
+        `http${config.ssl ? 's' : ''}://${config.hostname}:${config.port}${
+            server.graphqlPath
+        }`,
+    );
+
+    return { server, app };
+}
+
+startApolloServer()
