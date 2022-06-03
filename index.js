@@ -7,6 +7,8 @@ import { createRequire } from "module";
 const require = createRequire(import.meta.url);
 const JsonData = require('./data.json')
 
+// SALAT!
+
 // A schema is a collection of type definitions (hence "typeDefs")
 // that together define the "shape" of queries that are executed against
 // your data.
