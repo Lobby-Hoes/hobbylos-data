@@ -4,13 +4,15 @@
       "folge": "1",
       "folgenname": "Hobbylos: Die Geburt",
       "code": "42X47cqhqvxrAFIbBQS5g2",
-      "mathefacts": {}
+      "mathefacts": {},
+	  "staedtegeschichten": {}
     },
     {
       "folge": "2",
       "folgenname": "Die alte Hure",
       "code": "44YlsfYiLVB0OlNAeaQh68",
-      "mathefacts": {}
+      "mathefacts": {},
+	  "staedtegeschichten": {}
     },
     {
       "folge": "3",
@@ -21,7 +23,8 @@
         "beschreibung": "Es existieren Unendlichkeiten die größer sind als andere Unendlichkeiten.",
         "startzeit": "00:11:06",
         "endzeit": "00:11:50"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "4",
@@ -32,7 +35,8 @@
         "beschreibung": "Es gibt in jedem Mathematischen System Ausagen, die nicht bewiesen und auch nicht widerlegt werden können.",
         "startzeit": "00:38:50",
         "endzeit": "00:42:31"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "5",
@@ -43,7 +47,8 @@
         "beschreibung": "Fakultät erklärt am Beispiel der Kombinationsmöglichkeiten eines Kartenspiels.",
         "startzeit": "00:27:57",
         "endzeit": "00:29:55"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "6",
@@ -54,7 +59,8 @@
         "beschreibung": "Der durchschnittliche Facebook Freund hat mehr Freunde als der durchschnittliche Facebook User.",
         "startzeit": "00:26:57",
         "endzeit": "00:31:42"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "7",
@@ -65,7 +71,8 @@
         "beschreibung": "Die Griechen haben lediglich den berühmten Satz zum ersten mal allgemein bewiesen. Euklied war hierbei der erste bekannte.",
         "startzeit": "00:22:37",
         "endzeit": "00:26:17"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "8",
@@ -76,7 +83,8 @@
         "beschreibung": "Jede einfach zusammenhängende, kompakte, unberandete, 3-dimensionale Mannigfaltigkeiten ist homöomorph  zur 3-Sphäre.",
         "startzeit": "00:47:57",
         "endzeit": "00:57:42"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "9",
@@ -87,7 +95,8 @@
         "beschreibung": "Zwei Punkte die in genau entgegengesetzten Richtungen vom Mittelpunkt einer n-Sphäre in den n-dimensionalen euklidischen Raum entfehrnt liegen, sind bei stetigen Funktionen gleich.",
         "startzeit": "00:20:45",
         "endzeit": "00:24:57"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "10",
@@ -98,7 +107,8 @@
         "beschreibung": "Erfolgreiche Zustände sind stärker sichtbar sind als nicht erfolgreiche und werden deshalb systemtisch überschätzt.",
         "startzeit": "00:49:00",
         "endzeit": "00:55:33"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "11",
@@ -109,7 +119,8 @@
         "beschreibung": "Visualisierung der Fakultät von 52.",
         "startzeit": "00:40:28",
         "endzeit": "00:48:30"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "12",
@@ -120,7 +131,8 @@
         "beschreibung": "Auf einer Karte der Umgebung gibt es einen Punkt, der mit dem direkt darunter liegenden Punkt in der realen Welt übereinstimmt.",
         "startzeit": "00:41:47",
         "endzeit": "00:48:20"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "13",
@@ -131,7 +143,8 @@
         "beschreibung": "Marjorie Rice hat als Hausfrau neue Arten von Fünfecken entdeckt, die man lückenlos andeinander legen kann.",
         "startzeit": "00:38:09",
         "endzeit": "00:47:33"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "14",
@@ -142,7 +155,8 @@
         "beschreibung": "Ein Körper, der eine unendliche Oberfläche, aber ein endliches Volumen besitzt.",
         "startzeit": "00:40:06",
         "endzeit": "00:45:00"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "15",
@@ -153,7 +167,8 @@
         "beschreibung": "Eine 1 mit einhundert 0-en. Google ist danach benannt. Ihr Firmensitz heißt Googleplex, benannt nach der Zahl googolplex. Eine 1 mit googol-vielen 0-en. +Größenvergleich.",
         "startzeit": "00:53:41",
         "endzeit": "00:58:24"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "16",
@@ -164,7 +179,8 @@
         "beschreibung": "a^n+b^n=c^n gilt nur für n=1 und n=2 (Pythagoras).",
         "startzeit": "00:53:44",
         "endzeit": "01:01:42"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "17",
@@ -175,7 +191,8 @@
         "beschreibung": "Avocado bedeutet Hoden. Menschen können weiter springen als Pferde. Samsung hat einen Roboter in Form eines Gesäßes, um Handys auf Stabilität zu testen. Lego stellt die meisten Reifen her.",
         "startzeit": "00:42:10",
         "endzeit": "00:49:20"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "18",
@@ -186,7 +203,8 @@
         "beschreibung": "Die 73 kann in verschiedenen Schreibweisen als besonders bezeichnet werden (Beweis der Sheldon-Vermutung).",
         "startzeit": "00:58:14",
         "endzeit": "01:07:36"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "19",
@@ -197,7 +215,8 @@
         "beschreibung": "Möglichkeiten sind: 1. ein Glaube an eine höhere Bedeutung der Zahl. 2. Man fokussiert sich mehr auf die Zahl, als auf andere und ignoriert diese 3. Es wird gezielt nach Bestätigung gesucht.",
         "startzeit": "00:49:39",
         "endzeit": "01:01:49"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "20",
@@ -208,7 +227,8 @@
         "beschreibung": "Zuerst probierte man Näherungen mit Polygonen, dann kam Newton und fand eine bessere Methode.",
         "startzeit": "00:58:00",
         "endzeit": "01:10:36"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "21",
@@ -219,7 +239,8 @@
         "beschreibung": "Edward J. Goodwin wollte Pi gesetzmäßig auf 3,2 festlegen lassen, um sich das patentieren lassen zu können.",
         "startzeit": "01:20:16",
         "endzeit": "01:28:49"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "22",
@@ -230,7 +251,8 @@
         "beschreibung": "ein Modell, mit dessen Hilfe man bei bestimmten Größen, die in eine Rangfolge gebracht werden, deren Wert aus ihrem Rang abschätzen kann.",
         "startzeit": "00:51:16",
         "endzeit": "01:03:51"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "23",
@@ -241,19 +263,22 @@
         "beschreibung": "Kosmische Strahlung kann beim Treffen eines PCs ein Bit flippen und dieser ändert den Wert. Oder Server sind zu langsam.",
         "startzeit": "00:55:25",
         "endzeit": "01:08:48"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "24",
       "folgenname": "\"Ja dann, Hose  runter\" sagte sie...",
       "code": "3Y4zDLFQ69loKxZCBtmdrZ",
-      "mathefacts": {}
+      "mathefacts": {},
+	  "staedtegeschichten": {}
     },
     {
       "folge": "25",
       "folgenname": "Wer hat die Vorhaut von Jesus geklaut?",
       "code": "609sVKgV3niXKGS2oUWNyQ",
-      "mathefacts": {}
+      "mathefacts": {},
+	  "staedtegeschichten": {}
     },
     {
       "folge": "26",
@@ -264,7 +289,8 @@
         "beschreibung": "Ramanujan hat eine Formelsammlung gefunden und hat daraus weitere Formeln erfunden, von denen der Großteil neue Entdeckungen waren.",
         "startzeit": "00:56:36",
         "endzeit": "01:09:07"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "27",
@@ -275,13 +301,15 @@
         "beschreibung": "Visualisierung anhand von Hilberts Hotel.",
         "startzeit": "00:39:39",
         "endzeit": "00:58:21"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "28",
       "folgenname": "Sorry an alle Lobbyhoes",
       "code": "5ckzN68XZ1U9HWD4EeMueQ",
-      "mathefacts": {}
+      "mathefacts": {},
+	  "staedtegeschichten": {}
     },
     {
       "folge": "29",
@@ -292,19 +320,22 @@
         "beschreibung": "Unendlichkeiten reeller Zahlen sind größer als rationale Unendlichkeiten.",
         "startzeit": "00:45:02",
         "endzeit": "00:58:39"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "30",
       "folgenname": "Valentinstag-Special: Dating & S3x Fails von euch",
       "code": "2wVOaNtFZpUKyXglV5nR3E",
-      "mathefacts": {}
+      "mathefacts": {},
+	  "staedtegeschichten": {}
     },
     {
       "folge": "31",
       "folgenname": "Send nudes Geburtsurkunde",
       "code": "1xwjns2dlxU2tFSYuprrJz",
-      "mathefacts": {}
+      "mathefacts": {},
+	  "staedtegeschichten": {}
     },
     {
       "folge": "32",
@@ -315,7 +346,8 @@
         "beschreibung": "Nachrichten wurden damit im zweiten ww verschlüsselt und es wurde eine Entschlüsselungsmaschine gebaut.",
         "startzeit": "00:50:35",
         "endzeit": "01:01:14"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "33",
@@ -326,7 +358,8 @@
         "beschreibung": "Menschen haben immer einen Bezug zu dem vermeintlich zufälligem Gedanken.",
         "startzeit": "00:41:31",
         "endzeit": "00:53:45"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "34",
@@ -337,7 +370,8 @@
         "beschreibung": "64^11= ca. 73 Trillionen Möglichkeiten -> mehr als genug.",
         "startzeit": "00:49:52",
         "endzeit": "01:00:43"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "35",
@@ -348,7 +382,8 @@
         "beschreibung": "Dinge, die man selbst tut, überschätzt man mehr als Ursachen von Dingen.",
         "startzeit": "00:52:22",
         "endzeit": "01:11:34"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "36",
@@ -359,7 +394,8 @@
         "beschreibung": "1.Fall. Menschen sterben, bevor es möglich ist, 2. Keiner hat Bock auf Simulationen oder 3. Wir leben in einer Simulation.",
         "startzeit": "00:46:42",
         "endzeit": "01:05:20"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "37",
@@ -370,7 +406,8 @@
         "beschreibung": "Wir haben keine Aliens entdeckt, obwohl es Möglichkeiten für anderes Leben gibt.",
         "startzeit": "00:48:56",
         "endzeit": "01:00:45"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "38",
@@ -381,7 +418,8 @@
         "beschreibung": "Etwas wird als kein Zufall betitelt, da Menschen in Informationen Muster erkennen. Noch dazu erkennt man eher eine Bestätigung, als ein Widerspruch und wertet diese stärker. Wenn etwas im Einzelfall unwahrscheinlich ist, ist es aufs Allgemeine sehr wahrscheinlich.",
         "startzeit": "´01:02:08",
         "endzeit": "01:15:33"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "39",
@@ -392,7 +430,8 @@
         "beschreibung": "Hippolyte Fizeau hat mit einem Zahnrad und einem Spiegel die Lichtgeschwindigkeit sehr nahe bestimmt. Sie ist außerdem konstant.",
         "startzeit": "00:45:48",
         "endzeit": "01:10:21"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "40",
@@ -403,7 +442,8 @@
         "beschreibung": "Der Meter ist abgeleitet von Strahlung eines bestimmten Atoms. Die ist immer gleich.",
         "startzeit": "00:51:22",
         "endzeit": "01:06:34"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "41",
@@ -414,7 +454,8 @@
         "beschreibung": "Pardoxon, das sich mit Änderungen der Zeitlinie bei Zeitreisen beschäftigt.",
         "startzeit": "00:45:23",
         "endzeit": "00:58:17"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "42",
@@ -425,7 +466,8 @@
         "beschreibung": "Die Römer hatten 10 Monate, haben zwei dazugenommen und bei dem einem mal ein paar mehr und mal ein paar weniger Tage gezählt.",
         "startzeit": "00:39:43",
         "endzeit": "00:53:20"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "43",
@@ -436,7 +478,8 @@
         "beschreibung": "Eine Bücherei in der jede mögliche Zeichenfolge generiert werden kann und eine Festplatte auf der jede mögliche Melodie generiert wird.",
         "startzeit": "00:52:37",
         "endzeit": "01:04:09"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "44",
@@ -447,7 +490,8 @@
         "beschreibung": "Die Summe aller natürlichen Zahlen ist -1/12.",
         "startzeit": "01:06:34",
         "endzeit": "01:07:27"
-      }
+      },
+	  "staedtegeschichten": {}
     },
     {
       "folge": "45",
