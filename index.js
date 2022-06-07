@@ -1,11 +1,14 @@
 import express from 'express';
-import { ApolloServer, gql } from 'apollo-server-express';
+import {ApolloServer, gql} from 'apollo-server-express';
 import fs from 'fs';
 import https from 'https';
 import http from 'http';
-import { createRequire } from "module";
+import {createRequire} from "module";
+
 const require = createRequire(import.meta.url);
-const JsonData = require('./data.json')
+const folgenJson = require('./folgen.json')
+const mathefactsJson = require('./mathefacts.json')
+const staedtegeschichtenJson = require('./staedtegeschichten.json')
 
 // SALAT!
 
@@ -13,41 +16,33 @@ const JsonData = require('./data.json')
 // that together define the "shape" of queries that are executed against
 // your data.
 const typeDefs = gql`
-    type Geschichten {
-        titel: String
-        ort: String
-        typ: String
-        geo: [Float]
-        startzeit: String
-        endzeit: String
-        geschichte: String
-        folge: String
-        folgenname: String
-        code: String
+    type Geschichte {
+        titel: String!
+        ort: String!
+        typ: String!
+        geo: [Float]!
+        geschichte: String!
     }
 
     type Staedtegeschichten {
-        startzeit: String
-        endzeit: String
-        geschichten: [Geschichten]
+        startzeit: String!
+        endzeit: String!
+        geschichten: [Geschichte]!
+        folge: Folge!
     }
 
     type Mathefacts {
-        startzeit: String
-        endzeit: String
-        thema: String
-        beschreibung: String
-        folge: String
-        folgenname: String
-        code: String
+        startzeit: String!
+        endzeit: String!
+        thema: String!
+        beschreibung: String!
+        folge: Folge!
     }
 
     type Folge {
-        folge: String
-        folgenname: String
-        code: String
-        staedtegeschichten: Staedtegeschichten
-        mathefacts: Mathefacts
+        folgenId: Id!
+        folgenname: String!
+        code: String!
     }
 
     # The "Query" type is special: it lists all of the available queries that
@@ -55,7 +50,7 @@ const typeDefs = gql`
     # case, the "folgen" query returns an array of zero or more Folge (defined above).
     type Query {
         folgen: [Folge]
-        staedtegeschichten: [Geschichten]
+        staedtegeschichten: [Staedtegeschichten]
         mathefacts: [Mathefacts]
     }
 `;
@@ -64,26 +59,34 @@ const typeDefs = gql`
 // schema. This resolver retrieves books from the "folgen" array above.
 const resolvers = {
     Query: {
-        folgen: () => JsonData.data,
+        folgen: () => folgenJson.data,
         staedtegeschichten(parent, args, context, info) {
             let geschichten = []
-            JsonData.data.forEach((folge) => {
-                if (typeof folge.staedtegeschichten !== 'undefined') {
-                    folge.staedtegeschichten.geschichten.forEach((geschichte) => {
-                        geschichten.push(Object.assign(geschichte, {"startzeit": folge.staedtegeschichten.startzeit},{"endzeit": folge.staedtegeschichten.endzeit}, {"folge": folge.folge}, {"folgenname": folge.folgenname}, {"code": folge.code}))
-                    })
-                }
+            const folgen = folgenJson.data
+
+            staedtegeschichtenJson.data.forEach((staedtegeschichtenFolge) => {
+                const folgeObj = folgen.find(item => item.folgenId === staedtegeschichtenFolge.folgenId)
+                geschichten.push(Object.assign(staedtegeschichtenFolge, {
+                            "folge": folgeObj
+                        }
+                    )
+                )
             });
             return geschichten
         },
         mathefacts(parent, args, context, info) {
-            let mathefacts = []
-            JsonData.data.forEach((folge) => {
-                if (typeof folge.mathefacts !== 'undefined') {
-                        mathefacts.push(Object.assign(folge.mathefacts, {"folge": folge.folge}, {"folgenname": folge.folgenname}, {"code": folge.code}))
-                }
+            let facts = []
+            const folgen = folgenJson.data
+
+            mathefactsJson.data.forEach((mathefactsFolge) => {
+                const folgeObj = folgen.find(item => item.folgenId === mathefactsFolge.folgenId)
+                facts.push(Object.assign(mathefactsFolge, {
+                            "folge": folgeObj
+                        }
+                    )
+                )
             });
-            return mathefacts
+            return facts
         }
     }
 };
@@ -91,8 +94,8 @@ const resolvers = {
 async function startApolloServer() {
     const configurations = {
         // Note: You may need sudo to run on port 443
-        production: { ssl: true, port: 443, hostname: 'data.hobbylos.online' },
-        development: { ssl: false, port: 4000, hostname: 'localhost' },
+        production: {ssl: true, port: 443, hostname: 'data.hobbylos.online'},
+        development: {ssl: false, port: 4000, hostname: 'localhost'},
     };
     const environment = process.env.NODE_ENV || 'production';
     const config = configurations[environment];
@@ -105,7 +108,7 @@ async function startApolloServer() {
     await server.start();
 
     const app = express();
-    server.applyMiddleware({ app });
+    server.applyMiddleware({app});
 
     // Create the HTTPS or HTTP server, per configuration
     let httpServer;
@@ -126,7 +129,7 @@ async function startApolloServer() {
     }
 
     await new Promise(resolve =>
-        httpServer.listen({ port: config.port }, resolve),
+        httpServer.listen({port: config.port}, resolve),
     );
 
     console.log(
@@ -136,7 +139,7 @@ async function startApolloServer() {
         }`,
     );
 
-    return { server, app };
+    return {server, app};
 }
 
 startApolloServer()

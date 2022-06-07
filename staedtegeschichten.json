@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "folgenId": 45,
+      "startzeit": "20:43",
+      "endzeit": "38:57",
+      "geschichten": [
+        {
+          "titel": "Die weiße Frau vom Ebersberger Forst",
+          "ort": "Ebersberg",
+          "geschichte": "Eine weiße Frau begegnet Autofahrern am Straßenrand. Nimmt man sie mit passiert nichts. Lässt man sie stehen erscheint sie im Auto und greift ins Lenkrad.",
+          "typ": "mythos",
+          "geo": [
+            48.1,
+            12
+          ]
+        },
+        {
+          "titel": "Der Held von Esens – Die Sage des Esenser Wappentiers",
+          "ort": "Esens",
+          "geschichte": "Im Jahr 1540 standen die Bremser mit ihren Truppen in Esens und belagern die Stadt. Schon seit Monaten waren alle Versorgungswege abgeschnitten, niemand konnte heraus aber auch niemand hinein. Alle Essensvorräte waren inzwischen aufgebraucht und die Esenser hungerten, mit jedem Tag der Belagerung wuchs mit dem Hunger auch die Verzweiflung. Während die Bremer die Stadt systematisch abgeriegelt hatten wurden auch unbeteiligte Zivilisten mit in Esens eingesperrt, so auch ein Musikant mit einem Tanzbären (Tierschutz war noch nicht bekannt). Da der Musikant nun auch nicht mehr die Stadt verlassen konnte leidet er genauso wie sein Bär an unerträglichem Hunger. Und dann kam ihm eine Idee, er ging mit dem Tanzbären zu den Esensern und sperrte seinen Tanzbären in den Lumpenturm ein. Ein Lumpenturm ist der Ort wo das Gesindel Brot und Wasser verwahren, also wenn man noch welches hat. Dieser Lumpenturm hatte nur ein kleines Verlies und eine steinerne Treppe, die geradewegs nach oben auf die Plattform führte. Der Bär rannte nun in seiner Qual des Hungers ganz hinauf. Rasend und brüllend zerschlug der Tanzbär die Brüstung des Lumpenturmes und warf die roten Ziegelsteine auf die Feinde herunter. Die Bremer gerieten in Angst und Schrecken und vor allem tapten sie in ein Gedankenfalle. Sie gingen davon aus, dass wenn die Esenser noch so viel Essensvorräte hätten, dass sie sich einen unnützen Bären leisten konnten, eine Belagerung keinen weiteren Sinn machte. So kam es das die Bremer aufgaben und Esens verließen. Der Bär hat also die Stadt gerettet und zum Dank wurde er das Wappentier.",
+          "typ": "mythos",
+          "geo": [
+            53.7,
+            7.6
+          ]
+        },
+        {
+          "titel": "Weilburger Hündchen",
+          "ort": "Weilburg",
+          "geschichte": "Eines Tages aber musste der Fürst von Weilburg mit seinem Gefolge eine sehr weite Reise zu Pferd antreten, auf der er sein kleines Hündchen nicht mitnehmen konnte. Er hatte bereits das Schloss verlassen, war über die Lahnbrücke geritten und befand sich auf der anderen Uferseite, als das Hündchen dies aus einem Fenster hoch im Schloss erkannte. In seiner verlassenen Not bellte, winselte, heulte und kratzte der Hund, um seinen Herrn noch auf sich aufmerksam zu machen. Es half aber nichts, denn das Rauschen der Lahn übertönte die Klagelaute des armen Tieres. Schließlich sprang das Hündchen todesmutig aus großer Höhe durch das geöffnete Fenster tief hinab und tauchte ein in das sprudelnde Wasser der Lahn. Tollkühn durchschwamm es hastig den breiten Fluss, erreichte die andere Lahnseite und eilte hechelnd am gegenüber liegenden Ufer zu seinem Herrn, der sofort von seinem Pferd absaß und das geliebte Tier freudig in die Arme schloss und streichelte. Jedoch die enormen Anstrengungen waren zu viel für das kleine Hündchen. Obwohl es noch mit der Rute heftig wedelte und sich freute, wieder bei seinem Herrn zu sein, schlief das völlig erschöpfte Tier für immer in dessen Armen ruhig ein",
+          "typ": "geschichte",
+          "geo": [
+            50.5,
+            8.2
+          ]
+        },
+        {
+          "titel": "Die Kokser Frankfurts",
+          "ort": "Frankfurt",
+          "geschichte": "Aus dem Abwasser Frankfurts lässt sich chemisch belegen, dass in Frankfurt mindestens 17000 Kokainkonsumenten, die 600 Kilogramm Kokain pro Jahr konsumieren",
+          "typ": "fakt",
+          "geo": [
+            50.1,
+            8.6
+          ]
+        },
+        {
+          "titel": "Die Aachener Dombausage",
+          "ort": "Aachen",
+          "geschichte": "Karl der Große gab den Auftrag einen Dom zu bauen. Allerdings waren dafür keine finanziellen Mittel vorhanden. Daher hat die Stadt einen Pakt mit dem Teufel abgeschlossen, der als Gegenleistung die erste Seele wollte, die den fertigen Dom betritt. Ein Mönch hat die Ratsherren darauf hingewiesen, dass nicht spezifiziert wurde welche Art Seele gefordert wird. Deswegen wurde als erstes ein Wolf in den Dom gelassen, woraufhin der Teufel aus Wut die Domtür so heftig zuschlug, dass sein Daumen abgeklemmt wurde und noch heute Teil der Tür ist. Der Teufel holte daraufhin riesige Säcke mit Sand, mit denen er plante Aachen zuzuschütten. Auf dem Weg nach Aachen musste er allerdings bei einer Frau nach dem Weg fragen, die daraufhin antwortete, dass Aachen so weit entfernt sei, dass sie ihre Schuhe auf der Reise von Aachen hierher zu Lumpen zerschlissen wurde. Der Teufel gab daher auf, lies die Sandsäcke fallen und erschuf so den Aachener Lousberg.",
+          "typ": "mythos",
+          "geo": [
+            50.8,
+            6.1
+          ]
+        }
+      ]
+    },
+    {
+      "folgenId": 46,
+      "startzeit": "27:58",
+      "endzeit": "42:59",
+      "geschichten": [
+        {
+          "titel": "Die treuen Weiber vom Weinsberg",
+          "ort": "Weinsberg",
+          "geschichte": "Im Jahre 1140, als der Staufer König Konrad im Krieg mit dem bayrischen Herzog Welf lag, zog Konrads Herr vor die Burg Weinsberg und belagerte sie. Als die Belagerten hungrig wurden, waren sie aber noch immer nicht bereit aufzugeben. Konrad drohte am nächsten Morgen die Burg einzunehmen und allesamt zu Töten. In der Nacht vor dem Sturm schlich sich eine junge Weinsbergerin ins feindliche Lager um Konrad um Gnade zu bitten. Weil die junge Frau so hübsch war, lies sich der König gnädig stimmen und erlaubte allen Weibern, vor der Eroberung die Burg zu verlassen und dabei mitzunehmen, was sie tragen konnten. Am nächsten Morgen staunte Konrad nicht schlecht, als durchs Burgtor der lange Zug an Frauen kam, die jede ihren Mann auf dem Rücken trug. Der König musste über die List der Frauen lächeln. Und als sein Neffe Friedrich Einspruch erheben wollte sagte er, lass sie in Frieden ziehen. Am Wort des Königs soll man nicht drehen und deuteln. Die Burg wurde später dennoch zerstört, aber ihr Ruine heißt immer noch „die Weibertreu“.",
+          "typ": "geschichte",
+          "geo": [
+            49.1,
+            9.2
+          ]
+        },
+        {
+          "titel": "Die Kyffhäusersage",
+          "ort": "Balingen",
+          "geschichte": "Barbarossa geht in eine Höhle und sagt, dass wenn er wieder kommt, er alle rettet. In der Höhle schläft Barbarossa so lange, bis sein Bart drei Mal um einen Steintisch herum gewachsen war. Als er aufwacht kommt er wieder und macht Frieden.",
+          "typ": "mythos",
+          "geo": [
+            48.2,
+            8.8
+          ]
+        },
+        {
+          "titel": "Die Geschichte hinter der Säubrennerkirmes",
+          "ort": "Wittlich",
+          "geschichte": "Wir schreiben das Jahr 1397 in Wittlich. Die Stadt wurde einmal von einem Raubritter namens Friedrich von Ehrenberg belagert. Eigentlich hielt die Stadt Wittlich der Belagerung gut stand, allerdings änderte sich das in einer schicksalhaften Nacht. Da konnte der Pförtner nämlich den Riegel für das Stadttor nicht finden und benutzte einfach eine Rübe um das Tor zu verschließen. In der Nacht hatte jedoch ein Schwein diese besagte Rübe gefressen und die Feinde konnten in die Stadt eindringen. Die gesamte Stadt wurde niedergebrannt. Zur Strafe und vermutlich vor allem aus Frust, trieben daraufhin die Wittlicher alle Schweine der Stadt zu einem Feuer zusammen und verspeisten sie als Saubraten. Heute noch gibt es in der Säubrennerstadt Wittlich viele Staturen von Schweinen und jährlich im August gibt es die Säubrenner Kirmes auf der Saubraten gegessen wird.",
+          "typ": "mythos",
+          "geo": [
+            49.987191456461204,
+            6.8895503100927815
+          ]
+        }
+      ]
+    }
+  ]
+}

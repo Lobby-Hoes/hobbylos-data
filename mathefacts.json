@@ -1,0 +1,312 @@
+{
+  "data": [
+    {
+      "folgenId": 3,
+      "thema": "(über-)abzählbare Unendlichkeit",
+      "beschreibung": "Es existieren Unendlichkeiten die größer sind als andere Unendlichkeiten.",
+      "startzeit": "00:11:06",
+      "endzeit": "00:11:50"
+    },
+    {
+      "folgenId": 4,
+      "thema": "Gödelscher Unvollständigkeitssatz",
+      "beschreibung": "Es gibt in jedem Mathematischen System Ausagen, die nicht bewiesen und auch nicht widerlegt werden können.",
+      "startzeit": "00:38:50",
+      "endzeit": "00:42:31"
+    },
+    {
+      "folgenId": 5,
+      "thema": "52!",
+      "beschreibung": "Fakultät erklärt am Beispiel der Kombinationsmöglichkeiten eines Kartenspiels.",
+      "startzeit": "00:27:57",
+      "endzeit": "00:29:55"
+    },
+    {
+      "folgenId": 6,
+      "thema": "Sampling bias am Beispiel des Freundschaftsparadox",
+      "beschreibung": "Der durchschnittliche Facebook Freund hat mehr Freunde als der durchschnittliche Facebook User.",
+      "startzeit": "00:26:57",
+      "endzeit": "00:31:42"
+    },
+    {
+      "folgenId": 7,
+      "thema": "Satz des Pythagoras geklaut?",
+      "beschreibung": "Die Griechen haben lediglich den berühmten Satz zum ersten mal allgemein bewiesen. Euklied war hierbei der erste bekannte.",
+      "startzeit": "00:22:37",
+      "endzeit": "00:26:17"
+    },
+    {
+      "folgenId": 8,
+      "thema": "Millennium-Probleme / die Poincaré-Vermutung",
+      "beschreibung": "Jede einfach zusammenhängende, kompakte, unberandete, 3-dimensionale Mannigfaltigkeiten ist homöomorph  zur 3-Sphäre.",
+      "startzeit": "00:47:57",
+      "endzeit": "00:57:42"
+    },
+    {
+      "folgenId": 9,
+      "thema": "Satz von Borsuk-Ulam",
+      "beschreibung": "Zwei Punkte die in genau entgegengesetzten Richtungen vom Mittelpunkt einer n-Sphäre in den n-dimensionalen euklidischen Raum entfehrnt liegen, sind bei stetigen Funktionen gleich.",
+      "startzeit": "00:20:45",
+      "endzeit": "00:24:57"
+    },
+    {
+      "folgenId": 10,
+      "thema": "Survivorship Bias",
+      "beschreibung": "Erfolgreiche Zustände sind stärker sichtbar sind als nicht erfolgreiche und werden deshalb systemtisch überschätzt.",
+      "startzeit": "00:49:00",
+      "endzeit": "00:55:33"
+    },
+    {
+      "folgenId": 11,
+      "thema": "Visualisierung der Fakultät von 52",
+      "beschreibung": "Visualisierung der Fakultät von 52.",
+      "startzeit": "00:40:28",
+      "endzeit": "00:48:30"
+    },
+    {
+      "folgenId": 12,
+      "thema": "Fixpunktsatz von Banach",
+      "beschreibung": "Auf einer Karte der Umgebung gibt es einen Punkt, der mit dem direkt darunter liegenden Punkt in der realen Welt übereinstimmt.",
+      "startzeit": "00:41:47",
+      "endzeit": "00:48:20"
+    },
+    {
+      "folgenId": 13,
+      "thema": "Fliesen in Fünfecken zusammenlegen ohne Lücken",
+      "beschreibung": "Marjorie Rice hat als Hausfrau neue Arten von Fünfecken entdeckt, die man lückenlos andeinander legen kann.",
+      "startzeit": "00:38:09",
+      "endzeit": "00:47:33"
+    },
+    {
+      "folgenId": 14,
+      "thema": "Gabriels Horn",
+      "beschreibung": "Ein Körper, der eine unendliche Oberfläche, aber ein endliches Volumen besitzt.",
+      "startzeit": "00:40:06",
+      "endzeit": "00:45:00"
+    },
+    {
+      "folgenId": 15,
+      "thema": "Die Zahl Googol",
+      "beschreibung": "Eine 1 mit einhundert 0-en. Google ist danach benannt. Ihr Firmensitz heißt Googleplex, benannt nach der Zahl googolplex. Eine 1 mit googol-vielen 0-en. +Größenvergleich.",
+      "startzeit": "00:53:41",
+      "endzeit": "00:58:24"
+    },
+    {
+      "folgenId": 16,
+      "thema": "Fermats letzter Satz",
+      "beschreibung": "a^n+b^n=c^n gilt nur für n=1 und n=2 (Pythagoras).",
+      "startzeit": "00:53:44",
+      "endzeit": "01:01:42"
+    },
+    {
+      "folgenId": 17,
+      "thema": "Jus kleine Facts",
+      "beschreibung": "Avocado bedeutet Hoden. Menschen können weiter springen als Pferde. Samsung hat einen Roboter in Form eines Gesäßes, um Handys auf Stabilität zu testen. Lego stellt die meisten Reifen her.",
+      "startzeit": "00:42:10",
+      "endzeit": "00:49:20"
+    },
+    {
+      "folgenId": 18,
+      "thema": "Die krasseste Zahl",
+      "beschreibung": "Die 73 kann in verschiedenen Schreibweisen als besonders bezeichnet werden (Beweis der Sheldon-Vermutung).",
+      "startzeit": "00:58:14",
+      "endzeit": "01:07:36"
+    },
+    {
+      "folgenId": 19,
+      "thema": "Warum Lobbyhoes überall die 37 sehen",
+      "beschreibung": "Möglichkeiten sind: 1. ein Glaube an eine höhere Bedeutung der Zahl. 2. Man fokussiert sich mehr auf die Zahl, als auf andere und ignoriert diese 3. Es wird gezielt nach Bestätigung gesucht.",
+      "startzeit": "00:49:39",
+      "endzeit": "01:01:49"
+    },
+    {
+      "folgenId": 20,
+      "thema": "Wie wurde Pi herausgefunden?",
+      "beschreibung": "Zuerst probierte man Näherungen mit Polygonen, dann kam Newton und fand eine bessere Methode.",
+      "startzeit": "00:58:00",
+      "endzeit": "01:10:36"
+    },
+    {
+      "folgenId": 21,
+      "thema": "Pi sollte auf 3,2 festgelegt werden",
+      "beschreibung": "Edward J. Goodwin wollte Pi gesetzmäßig auf 3,2 festlegen lassen, um sich das patentieren lassen zu können.",
+      "startzeit": "01:20:16",
+      "endzeit": "01:28:49"
+    },
+    {
+      "folgenId": 22,
+      "thema": "Zipfsches Gesetz",
+      "beschreibung": "ein Modell, mit dessen Hilfe man bei bestimmten Größen, die in eine Rangfolge gebracht werden, deren Wert aus ihrem Rang abschätzen kann.",
+      "startzeit": "00:51:16",
+      "endzeit": "01:03:51"
+    },
+    {
+      "folgenId": 23,
+      "thema": "Computer können manchmal nicht zählen",
+      "beschreibung": "Kosmische Strahlung kann beim Treffen eines PCs ein Bit flippen und dieser ändert den Wert. Oder Server sind zu langsam.",
+      "startzeit": "00:55:25",
+      "endzeit": "01:08:48"
+    },
+    {
+      "folgenId": 24,
+      "thema": "",
+      "beschreibung": "",
+      "startzeit": "00:00:00",
+      "endzeit": "00:00:00"
+    },
+    {
+      "folgenId": 25,
+      "thema": "",
+      "beschreibung": "",
+      "startzeit": "00:00:00",
+      "endzeit": "00:00:00"
+    },
+    {
+      "folgenId": 26,
+      "thema": "Ramanujan das Mathe-Wunder",
+      "beschreibung": "Ramanujan hat eine Formelsammlung gefunden und hat daraus weitere Formeln erfunden, von denen der Großteil neue Entdeckungen waren.",
+      "startzeit": "00:56:36",
+      "endzeit": "01:09:07"
+    },
+    {
+      "folgenId": 27,
+      "thema": "Unendlich ist keine Zahl sondern ein Konzept",
+      "beschreibung": "Visualisierung anhand von Hilberts Hotel.",
+      "startzeit": "00:39:39",
+      "endzeit": "00:58:21"
+    },
+    {
+      "folgenId": 28,
+      "thema": "Kein Fact",
+      "beschreibung": "",
+      "startzeit": "00:00:00",
+      "endzeit": "00:00:00"
+    },
+    {
+      "folgenId": 29,
+      "thema": "Größenverhältnisse von Unendlichkeiten (aleph number)",
+      "beschreibung": "Unendlichkeiten reeller Zahlen sind größer als rationale Unendlichkeiten.",
+      "startzeit": "00:45:02",
+      "endzeit": "00:58:39"
+    },
+    {
+      "folgenId": 30,
+      "thema": "Kein Fact",
+      "beschreibung": "",
+      "startzeit": "00:00:00",
+      "endzeit": "00:00:00"
+    },
+    {
+      "folgenId": 31,
+      "thema": "Kein Fact",
+      "beschreibung": "",
+      "startzeit": "00:00:00",
+      "endzeit": "00:00:00"
+    },
+    {
+      "folgenId": 32,
+      "thema": "die Enigma Verschlüsselungsmaschine",
+      "beschreibung": "Nachrichten wurden damit im zweiten ww verschlüsselt und es wurde eine Entschlüsselungsmaschine gebaut.",
+      "startzeit": "00:50:35",
+      "endzeit": "01:01:14"
+    },
+    {
+      "folgenId": 33,
+      "thema": "Menschen sind kacke in Zufälligkeiten",
+      "beschreibung": "Menschen haben immer einen Bezug zu dem vermeintlich zufälligem Gedanken.",
+      "startzeit": "00:41:31",
+      "endzeit": "00:53:45"
+    },
+    {
+      "folgenId": 34,
+      "thema": "Gehen Youtube die Möglichkeiten für URLs aus?",
+      "beschreibung": "64^11= ca. 73 Trillionen Möglichkeiten -> mehr als genug.",
+      "startzeit": "00:49:52",
+      "endzeit": "01:00:43"
+    },
+    {
+      "folgenId": 35,
+      "thema": "Egocentric bias",
+      "beschreibung": "Dinge, die man selbst tut, überschätzt man mehr als Ursachen von Dingen.",
+      "startzeit": "00:52:22",
+      "endzeit": "01:11:34"
+    },
+    {
+      "folgenId": 36,
+      "thema": "Leben wir in einer Simulation?",
+      "beschreibung": "1.Fall. Menschen sterben, bevor es möglich ist, 2. Keiner hat Bock auf Simulationen oder 3. Wir leben in einer Simulation.",
+      "startzeit": "00:46:42",
+      "endzeit": "01:05:20"
+    },
+    {
+      "folgenId": 37,
+      "thema": "Fermi Paradoxon",
+      "beschreibung": "Wir haben keine Aliens entdeckt, obwohl es Möglichkeiten für anderes Leben gibt.",
+      "startzeit": "00:48:56",
+      "endzeit": "01:00:45"
+    },
+    {
+      "folgenId": 38,
+      "thema": "Das kann doch kein Zufall sein…",
+      "beschreibung": "Etwas wird als kein Zufall betitelt, da Menschen in Informationen Muster erkennen. Noch dazu erkennt man eher eine Bestätigung, als ein Widerspruch und wertet diese stärker. Wenn etwas im Einzelfall unwahrscheinlich ist, ist es aufs Allgemeine sehr wahrscheinlich.",
+      "startzeit": "´01:02:08",
+      "endzeit": "01:15:33"
+    },
+    {
+      "folgenId": 39,
+      "thema": "Geschichte der Lichtgeschwindigkeit",
+      "beschreibung": "Hippolyte Fizeau hat mit einem Zahnrad und einem Spiegel die Lichtgeschwindigkeit sehr nahe bestimmt. Sie ist außerdem konstant.",
+      "startzeit": "00:45:48",
+      "endzeit": "01:10:21"
+    },
+    {
+      "folgenId": 40,
+      "thema": "Wer sagt, was ein Meter ist",
+      "beschreibung": "Der Meter ist abgeleitet von Strahlung eines bestimmten Atoms. Die ist immer gleich.",
+      "startzeit": "00:51:22",
+      "endzeit": "01:06:34"
+    },
+    {
+      "folgenId": 41,
+      "thema": "Das Großvater-Paradoxon",
+      "beschreibung": "Pardoxon, das sich mit Änderungen der Zeitlinie bei Zeitreisen beschäftigt.",
+      "startzeit": "00:45:23",
+      "endzeit": "00:58:17"
+    },
+    {
+      "folgenId": 42,
+      "thema": "Schaltjahre",
+      "beschreibung": "Die Römer hatten 10 Monate, haben zwei dazugenommen und bei dem einem mal ein paar mehr und mal ein paar weniger Tage gezählt.",
+      "startzeit": "00:39:43",
+      "endzeit": "00:53:20"
+    },
+    {
+      "folgenId": 43,
+      "thema": "Generieren von Informationen durch einen Brute-Force Ansatz",
+      "beschreibung": "Eine Bücherei in der jede mögliche Zeichenfolge generiert werden kann und eine Festplatte auf der jede mögliche Melodie generiert wird.",
+      "startzeit": "00:52:37",
+      "endzeit": "01:04:09"
+    },
+    {
+      "folgenId": 44,
+      "thema": "Summe aller natürlichen Zahlen",
+      "beschreibung": "Die Summe aller natürlichen Zahlen ist -1/12.",
+      "startzeit": "01:06:34",
+      "endzeit": "01:07:27"
+    },
+    {
+      "folgenId": 45,
+      "thema": "Isaac Newton war ein krasser Ficker",
+      "beschreibung": "Isaac Newton hat ein Buch geschrieben, wofür er die Analysis erfunden hat. Das Buch hielt er noch eine Weile geheim. In der Zeit kam ein deutscher Wissenschaftler, Gottfried Wilhelm Leibniz, auch auf Analysis und schrieb ebenfalls ein Buch darüber. Dieses veröffentlichte er jedoch bevor Newton sein Buch veröffentlichte.",
+      "startzeit": "00:55:17",
+      "endzeit": "01:05:09"
+    },
+    {
+      "folgenId": "46",
+      "thema": "Anders Celsius hat die Temperaturskala gar nicht erfunden und nicht genutzt",
+      "beschreibung": "Im 18. Jahrhundert war Anders Celsius Professor an einer Uni in Uppsala. Er nutzte eine Skala auf der Wasser bei 0 Grad am Kochen war und bei 100 gefroren. Zu dem Zeitpunkt gab es über 30 verschiedene Thermometerskalen. Irgendwann gab es die Skala, wie wir sie heute kennen und alle haben behauptet, dass die von ihnen erfunden wurde. Jen Pier Christin hatte diese Skala nachweislich als erster benutzt. Die Skala hieß damals Zentigrad. Ein internationales Institut hat die Skala dann zu Celsius umbenannt, da in einem Buch stand, dass Celsius die Skala erfunden hätte.",
+      "startzeit": "01:06:32",
+      "endzeit": "01:15:48"
+    }
+  ]
+}
