@@ -56,6 +56,43 @@
           ]
         }
       ]
+    },
+    {
+      "folgenID": 46,
+      "startzeit": "27:58",
+      "endzeit": "42:59",
+      "geschichten": [
+        {
+          "titel": "Die treuen Weiber vom Weinsberg",
+          "ort": "Weinsberg",
+          "geschichte": "Im Jahre 1140, als der Staufer König Konrad im Krieg mit dem bayrischen Herzog Welf lag, zog Konrads Herr vor die Burg Weinsberg und belagerte sie. Als die Belagerten hungrig wurden, waren sie aber noch immer nicht bereit aufzugeben. Konrad drohte am nächsten Morgen die Burg einzunehmen und allesamt zu Töten. In der Nacht vor dem Sturm schlich sich eine junge Weinsbergerin ins feindliche Lager um Konrad um Gnade zu bitten. Weil die junge Frau so hübsch war, lies sich der König gnädig stimmen und erlaubte allen Weibern, vor der Eroberung die Burg zu verlassen und dabei mitzunehmen, was sie tragen konnten. Am nächsten Morgen staunte Konrad nicht schlecht, als durchs Burgtor der lange Zug an Frauen kam, die jede ihren Mann auf dem Rücken trug. Der König musste über die List der Frauen lächeln. Und als sein Neffe Friedrich Einspruch erheben wollte sagte er, lass sie in Frieden ziehen. Am Wort des Königs soll man nicht drehen und deuteln. Die Burg wurde später dennoch zerstört, aber ihr Ruine heißt immer noch „die Weibertreu“.",
+          "typ": "geschichte",
+          "geo": [
+            49.1,
+            9.2
+          ]
+        },
+        {
+          "titel": "Die Kyffhäusersage",
+          "ort": "Balingen",
+          "geschichte": "Barbarossa geht in eine Höhle und sagt, dass wenn er wieder kommt, er alle rettet. In der Höhle schläft Barbarossa so lange, bis sein Bart drei Mal um einen Steintisch herum gewachsen war. Als er aufwacht kommt er wieder und macht Frieden.",
+          "typ": "mythos",
+          "geo": [
+            48.2,
+            8.8
+          ]
+        },
+        {
+          "titel": "Die Geschichte hinter der Säubrennerkirmes",
+          "ort": "Wittlich",
+          "geschichte": "Wir schreiben das Jahr 1397 in Wittlich. Die Stadt wurde einmal von einem Raubritter namens Friedrich von Ehrenberg belagert. Eigentlich hielt die Stadt Wittlich der Belagerung gut stand, allerdings änderte sich das in einer schicksalhaften Nacht. Da konnte der Pförtner nämlich den Riegel für das Stadttor nicht finden und benutzte einfach eine Rübe um das Tor zu verschließen. In der Nacht hatte jedoch ein Schwein diese besagte Rübe gefressen und die Feinde konnten in die Stadt eindringen. Die gesamte Stadt wurde niedergebrannt. Zur Strafe und vermutlich vor allem aus Frust, trieben daraufhin die Wittlicher alle Schweine der Stadt zu einem Feuer zusammen und verspeisten sie als Saubraten. Heute noch gibt es in der Säubrennerstadt Wittlich viele Staturen von Schweinen und jährlich im August gibt es die Säubrenner Kirmes auf der Saubraten gegessen wird.",
+          "typ": "mythos",
+          "geo": [
+            49.987191456461204,
+            6.8895503100927815
+          ]
+        }
+      ]
     }
   ]
 }
