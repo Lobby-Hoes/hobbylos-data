@@ -62,33 +62,32 @@ const resolvers = {
         folgen: () => folgenJson.data,
         staedtegeschichten(parent, args, context, info) {
             let geschichten = []
-            let folgen = folgenJson.data
+            const folgen = folgenJson.data
 
             staedtegeschichtenJson.data.forEach((staedtegeschichtenFolge) => {
-                let folge = folgen.find(item => item.folgenID === staedtegeschichtenFolge.folge)
-                console.log(staedtegeschichtenFolge.folge)
-                /*folge = folgen.filter(
-                    function (data) {
-                        console.log(data.folgenID)
-                        console.log(staedtegeshichtenFolge.folge)
-                        return data.folgenID === staedtegeshichtenFolge.folge
-                    }
-                )*/
-               // console.log("---------------------folgen--------------------")
-               // console.log(folgen)
-                //console.log("-------------------folge-------------------------")
-                //console.log(folge)
+                const folgeObj = folgen.find(item => item.folgenID === staedtegeschichtenFolge.folgenID)
                 geschichten.push(Object.assign(staedtegeschichtenFolge, {
-                            "folge": folge
+                            "folge": folgeObj
                         }
                     )
                 )
             });
-            console.log("-------------------geschichten-------------------------")
-            console.log(geschichten)
             return geschichten
         },
-        mathefacts: () => mathefactsJson.data
+        mathefacts(parent, args, context, info) {
+            let facts = []
+            const folgen = folgenJson.data
+
+            mathefactsJson.data.forEach((mathefactsFolge) => {
+                const folgeObj = folgen.find(item => item.folgenID === mathefactsFolge.folgenID)
+                facts.push(Object.assign(mathefactsFolge, {
+                            "folge": folgeObj
+                        }
+                    )
+                )
+            });
+            return facts
+        }
     }
 };
 
