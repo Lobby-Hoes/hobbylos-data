@@ -8,6 +8,6 @@ Apollo GraphQL based API
 - npm
 
 ## Quick Start
-- Node Environment auf "development" setzen ```$env:NODE_ENV="production"```
+- Node Environment auf "development" setzen ```$env:NODE_ENV="development"```
 - ``npm install``
 - ``node index.js``
