@@ -10,8 +10,6 @@ const folgenJson = require('./folgen.json')
 const mathefactsJson = require('./mathefacts.json')
 const staedtegeschichtenJson = require('./staedtegeschichten.json')
 
-// SALAT!
-
 // A schema is a collection of type definitions (hence "typeDefs")
 // that together define the "shape" of queries that are executed against
 // your data.
