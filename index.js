@@ -40,7 +40,7 @@ const typeDefs = gql`
     }
 
     type Folge {
-        folgenID: ID!
+        folgenId: Id!
         folgenname: String!
         code: String!
     }
@@ -65,7 +65,7 @@ const resolvers = {
             const folgen = folgenJson.data
 
             staedtegeschichtenJson.data.forEach((staedtegeschichtenFolge) => {
-                const folgeObj = folgen.find(item => item.folgenID === staedtegeschichtenFolge.folgenID)
+                const folgeObj = folgen.find(item => item.folgenId === staedtegeschichtenFolge.folgenId)
                 geschichten.push(Object.assign(staedtegeschichtenFolge, {
                             "folge": folgeObj
                         }
@@ -79,7 +79,7 @@ const resolvers = {
             const folgen = folgenJson.data
 
             mathefactsJson.data.forEach((mathefactsFolge) => {
-                const folgeObj = folgen.find(item => item.folgenID === mathefactsFolge.folgenID)
+                const folgeObj = folgen.find(item => item.folgenId === mathefactsFolge.folgenId)
                 facts.push(Object.assign(mathefactsFolge, {
                             "folge": folgeObj
                         }

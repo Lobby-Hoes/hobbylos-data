@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "folgenID": 45,
+      "folgenId": 45,
       "startzeit": "20:43",
       "endzeit": "38:57",
       "geschichten": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "folgenID": 46,
+      "folgenId": 46,
       "startzeit": "27:58",
       "endzeit": "42:59",
       "geschichten": [
