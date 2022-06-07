@@ -40,7 +40,7 @@ const typeDefs = gql`
     }
 
     type Folge {
-        folgenId: Id!
+        folgenId: ID!
         folgenname: String!
         code: String!
     }
