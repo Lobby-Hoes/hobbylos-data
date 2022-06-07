@@ -66,7 +66,6 @@ const resolvers = {
 
             staedtegeschichtenJson.data.forEach((staedtegeschichtenFolge) => {
                 let folge = folgen.find(item => item.folgenID === staedtegeschichtenFolge.folge)
-                console.log(item.folgenID)
                 console.log(staedtegeschichtenFolge.folge)
                 /*folge = folgen.filter(
                     function (data) {
@@ -79,7 +78,7 @@ const resolvers = {
                // console.log(folgen)
                 //console.log("-------------------folge-------------------------")
                 //console.log(folge)
-                geschichten.push(Object.assign(staedtegeshichtenFolge, {
+                geschichten.push(Object.assign(staedtegeschichtenFolge, {
                             "folge": folge
                         }
                     )
