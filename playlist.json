@@ -1,0 +1,785 @@
+{
+    "data": [
+        {
+            "folgenId": 3,
+            "startzeit": "46:35",
+            "songs": [
+                {
+                    "title": "WEREGARURUMON",
+                    "Artist": "TJ_beastboy",
+                    "code": "0bk0HD6PubZKppbtvQz2H8",
+                    "draufgepackt":"R"
+                },
+                {
+                    "title": "STAY",
+                    "Artist": "The Kid LAROI, Justin Bieber",
+                    "code": "5HCyWlXZPP0y6Gqq8TgA20",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 4,
+            "startzeit": "01:03:37",
+            "songs": [
+                {
+                    "title": "Trop beau",
+                    "Artist": "Crisologo, Emma Peters",
+                    "code": "5j97tfPa0kGi0ieKQRiLRf",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Розовое вино",
+                    "Artist": "Eldzhey, FEDUK",
+                    "code": "2gcFOhxQOqAx1OABnxvUZ4",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 5,
+            "startzeit": "XX:XX:XX",
+            "songs": [
+                {
+                    "title": "Konsum",
+                    "Artist": "GReeeN",
+                    "code": "3nKlXtgH40KItfivdWwQ1r",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Venom",
+                    "Artist": "Eminem",
+                    "code": "3kpYJjvM8Ja6btr5hEJLWc",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 6,
+            "startzeit": "XX:XX:XX",
+            "songs": [
+                {
+                    "title": "GO",
+                    "Artist": "The Kid LAROI, Jucie WRLD",
+                    "code": "2t7D3y0jvYjR8IP9Bosyew",
+                    "draufgepackt":"M"
+                },
+                {
+                    "title": "Meer",
+                    "Artist": "RIN",
+                    "code": "3rQHGffq4FmBBykPn5YuKc",
+                    "draufgepackt":"R"
+                },
+                {
+                    "title": "Uprising",
+                    "Artist": "Muse",
+                    "code": "4VqPOruhp5EdPBeR92t6lQ",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 7,
+            "startzeit": "57:17",
+            "songs": [
+                {
+                    "title": "Bando",
+                    "Artist": "ANNA, Maxwell",
+                    "code": "16PtciDusm0JSYKpF5qj3Z",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Nuttööö",
+                    "Artist": "SSIO",
+                    "code": "59BhNnVBBXKhUjONX7jlrk",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 8,
+            "startzeit": "01:08:34",
+            "songs": [
+                {
+                    "title": "Nase voll",
+                    "Artist": "Kronkel Dom",
+                    "code": "72SblB5UXL7II2ibIgml7G",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Tinkerbell",
+                    "Artist": "The Holy Santa Barbara",
+                    "code": "7lCc8FkTlPR4jytlkVzvV3",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 9,
+            "startzeit": "44:20",
+            "songs": [
+                {
+                    "title": "Für die Gang",
+                    "Artist": "Ufo361, Gzuz",
+                    "code": "5TKIutymE7YA4mTcLa9eAQ",
+                    "draufgepackt":"R"
+                },
+                {
+                    "title": "Bye Bye Bye",
+                    "Artist": "YouNotUs, Micheal Schulte",
+                    "code": "72AbCBCbe5cYOLQy2nZdWA",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 10,
+            "startzeit": "57:16",
+            "songs": [
+                {
+                    "title": "Monkey Movez",
+                    "Artist": "KC Rebell",
+                    "code": "2JAaVRBZRAXBzHTIMgR436",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Balaton Weed",
+                    "Artist": "Plusmacher, The BREED",
+                    "code": "4htKLOmhKHEaaHlrxf0gNq",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 11,
+            "startzeit": "XX:XX:XX",
+            "songs": [
+                {
+                    "title": "Remember the Name",
+                    "Artist": "Fort Minor, Styles of Beyond",
+                    "code": "6ndmKwWqMozN2tcZqzCX4K",
+                    "draufgepackt":"XX"
+                },
+                {
+                    "title": "Roar",
+                    "Artist": "Katy Perry",
+                    "code": "6F5c58TMEs1byxUstkzVeM",
+                    "draufgepackt":"XX"
+                }
+            ]
+        },
+        {
+            "folgenId": 12,
+            "startzeit": "01:00:09",
+            "songs": [
+                {
+                    "title": "Apple",
+                    "Artist": "RIN",
+                    "code": "1SVV2YIx9ouyD2WwQqBL61",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "The Scientist",
+                    "Artist": "Coldplay",
+                    "code": "75JFxkI2RXiU7L9VXzMkle",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 14,
+            "startzeit": "01:02:34",
+            "songs": [
+                {
+                    "title": "Rovvery",
+                    "Artist": "Juice WRLD",
+                    "code": "6Hj9jySrnFppAI0sEMCZpJ",
+                    "draufgepackt":"R"
+                },
+                {
+                    "title": "Live Bitch",
+                    "Artist": "Juju",
+                    "code": "5uoAmXsrFAzALf4rex5jUZ",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Go Fuck Yourself",
+                    "Artist": "Two Feet",
+                    "code": "4NZrZgrRoR4GwR7flWOXRI",
+                    "draufgepackt":"R"
+                },
+                {
+                    "title": "SLOW DANCING IN THE DARK",
+                    "Artist": "Joji",
+                    "code": "0rKtyWc8bvkriBthvHKY8d",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 16,
+            "startzeit": "01:01:49",
+            "songs": [
+                {
+                    "title": "Gnu",
+                    "Artist": "257ers",
+                    "code": "1P2FxMEo0bo6kug6q77RFC",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Live Outside",
+                    "Artist": "Enter Shikari",
+                    "code": "4gFBRNM2w934WZMOINd49G",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 17,
+            "startzeit": "55:46",
+            "songs": [
+                {
+                    "title": "Bruder muss los!",
+                    "Artist": "Julien Bam, Joon Kim",
+                    "code": "18KaZzrnaYryuEoOeC3rYM",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Mach die Robbe - Remix",
+                    "Artist": "Rezo, Tanzverbot, Julien Bam, Willboy",
+                    "code": "5CERwnMo7jLTNlPSTCtllb",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 18,
+            "startzeit": "01:07:55",
+            "songs": [
+                {
+                    "title": "Sexual Healing",
+                    "Artist": "Marvin Gaye",
+                    "code": "3VZmChrnVW8JK6ano4gSED",
+                    "draufgepackt":"R"
+                },
+                {
+                    "title": "The Kids Aren't Alright",
+                    "Artist": "The Offspring",
+                    "code": "4EchqUKQ3qAQuRNKmeIpnf",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 19,
+            "startzeit": "01:02:56",
+            "songs": [
+                {
+                    "title": "Nightcall",
+                    "Artist": "Kavinsky",
+                    "code": "0U0ldCRmgCqhVvD6ksG63j",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Daddy Issues",
+                    "Artist": "The Neighbourhood",
+                    "code": "5E30LdtzQTGqRvNd7l6kG5",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 20,
+            "startzeit": "01:11:38",
+            "songs": [
+                {
+                    "title": "All Day",
+                    "Artist": "The Holy Santa Barbara, Curly",
+                    "code": "4padmj2UW6HEd52f42qbBB",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "We Got the Moves",
+                    "Artist": "Eletric Callboy",
+                    "code": "4EFb9FhLyFiDbYKwBwDZre",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 21,
+            "startzeit": "01:29:52",
+            "songs": [
+                {
+                    "title": "Hier im Dschungel",
+                    "Artist": "Julien Bam, Joon Kim",
+                    "code": "3qSK2XVRSk0hhMQHImJo51",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Violence - Original Mix",
+                    "Artist": "Grimes, i_o",
+                    "code": "3KeOFns3LGJuh1lapMm9eA",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 22,
+            "startzeit": "01:09:26",
+            "songs": [
+                {
+                    "title": "Run Boy Run",
+                    "Artist": "Woodkid",
+                    "code": "0boS4e6uXwp3zAvz1mLxZS",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "DER LETZTE SONG (ALLES WIRD GUT)",
+                    "Artist": "KUMMER, Fred Rabe",
+                    "code": "2FQRZLR31e3423Nmrgv0Pv",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 23,
+            "startzeit": "01:08:49",
+            "songs": [
+                {
+                    "title": "GUT<BESSER<ICH",
+                    "Artist": "TJ_beastboy",
+                    "code": "66n8tQ7bFeNRrDXG5sGS7x",
+                    "draufgepackt":"R"
+                },
+                {
+                    "title": "Gib her!",
+                    "Artist": "Julien Bam, selfiesandra, CrispyRob",
+                    "code": "648neYyz7wziy2RWuXeaiu",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 24,
+            "startzeit": "01:16:35",
+            "songs": [
+                {
+                    "title": "Reality",
+                    "Artist": "Lost Frequencies, Janieck Devy",
+                    "code": "51hVRQifMP6k0jJUzDbcpz",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Goose",
+                    "Artist": "Polyphia",
+                    "code": "2v7iJcMoQcN40fK9XEb42q",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 25,
+            "startzeit": "01:08:20",
+            "songs": [
+                {
+                    "title": "edamame",
+                    "Artist": "bbno$, Rich Brian",
+                    "code": "1uMHCAyGmHqyygoNRuo7MV",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Sosa",
+                    "Artist": "LGoony, Harry Quintana",
+                    "code": "2mdsmcQiVTsX6NiPt52Elm",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 26,
+            "startzeit": "01:10:17",
+            "songs": [
+                {
+                    "title": "Tic, Tic, Tac",
+                    "Artist": "Carrapicho",
+                    "code": "33FrM0i2g7uosARZ4aCFk1",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Enchanted",
+                    "Artist": "Taylor Swift",
+                    "code": "04S1pkp1VaIqjg8zZqknR5",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 27,
+            "startzeit": "58:32",
+            "songs": [
+                {
+                    "title": "Perfect",
+                    "Artist": "Logic",
+                    "code": "5jbDih9bLGmI8ycUKkN5XA",
+                    "draufgepackt":"R"
+                },
+                {
+                    "title": "Won't Stand Down",
+                    "Artist": "Muse",
+                    "code": "6hIr2IDeBDXfRFk0rYe5Tz",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 28,
+            "startzeit": "01:00:44",
+            "songs": [
+                {
+                    "title": "Do It To It",
+                    "Artist": "ACRAZE, Cherish",
+                    "code": "20on25jryn53hWghthWWW3",
+                    "draufgepackt":"R"
+                },
+                {
+                    "title": "Butterfly",
+                    "Artist": "Crazy Town",
+                    "code": "6GQ3WTaNHMFlVmN4burGat",
+                    "draufgepackt":"R"
+                },
+                {
+                    "title": "Eleanor Rigby",
+                    "Artist": "Cody Fry",
+                    "code": "62P3CMQAknHW4iftsBD41Y",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 29,
+            "startzeit": "01:04:55",
+            "songs": [
+                {
+                    "title": "Mit Dir",
+                    "Artist": "Sido",
+                    "code": "2xFMvrqk99biaLQavjufta",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "I'm with You",
+                    "Artist": "Avril Lavigne",
+                    "code": "1jlG3KJ3gdYmhfuySFfpO1",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 30,
+            "startzeit": "01:01:52",
+            "songs": [
+                {
+                    "title": "We Are The Champions",
+                    "Artist": "Queen",
+                    "code": "2KWOx2nE8h3LtL7ON466n7",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Face Off",
+                    "Artist": "Tech N9ne, Joey Cool, King Iso, Dwayne Johnson",
+                    "code": "6M47gaKejso9772SKTa3yH",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 31,
+            "startzeit": "01:04:14",
+            "songs": [
+                {
+                    "title": "Woman",
+                    "Artist": "Doja Cat",
+                    "code": "6Uj1ctrBOjOas8xZXGqKk4",
+                    "draufgepackt":"R"
+                },
+                {
+                    "title": "Piraten Style 2.0",
+                    "Artist": "Julien Bam, Joon Kim, GReeeN",
+                    "code": "6nk35yBRz3OQkLaPrtVOB1",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 32,
+            "startzeit": "01:06:39",
+            "songs": [
+                {
+                    "title": "WENN DU MICH VERMISST",
+                    "Artist": "FOURTY, Mathea",
+                    "code": "7EtfwHVS8FcciOBU1VnT8G",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Bad Habits",
+                    "Artist": "Ed Sheeran, Bring Me The Horizon",
+                    "code": "7vrKEP66NdiQDPryPG6olO",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 33,
+            "startzeit": "01:54:41",
+            "songs": [
+                {
+                    "title": "Hurricane",
+                    "Artist": "Ofenbach, Ella Henderson",
+                    "code": "0iVkWge9ytV4Scgy2hQ2za",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Stalemate",
+                    "Artist": "Enter Shikari",
+                    "code": "6yABMG87YRClAt3Clxscua",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 34,
+            "startzeit": "01:00:44",
+            "songs": [
+                {
+                    "title": "No Blueberries",
+                    "Artist": "DPR IAN, DPR LIVE, CL",
+                    "code": "4lpvCG7eNzHAXwvMxWUNjz",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Something In The Way",
+                    "Artist": "Nirvana",
+                    "code": "4gHnSNHs8RyVukKoWdS99f",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 35,
+            "startzeit": "01:12:06",
+            "songs": [
+                {
+                    "title": "Streets",
+                    "Artist": "Doja Cat",
+                    "code": "60ynsPSSKe6O3sfwRnIBRf",
+                    "draufgepackt":"R"
+                },
+                {
+                    "title": "The Magic Key",
+                    "Artist": "One-T",
+                    "code": "1VsuSOEVhuCaybeb1rFeCM",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 36,
+            "startzeit": "01:05:27",
+            "songs": [
+                {
+                    "title": "Hoes aus der Lobby",
+                    "Artist": "Julien Bam",
+                    "code": "2lHn9lFiSlSJF3s3n88d8D",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Mount Everest",
+                    "Artist": "Labrinth",
+                    "code": "1ZdhOMWyFR8Iv9eylMGYg2",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 37,
+            "startzeit": "01:00:45",
+            "songs": [
+                {
+                    "title": "Sehnsucht",
+                    "Artist": "Miksu / Macloud, t-low",
+                    "code": "1W1N3usYjgI3XGQA0iX9Vq",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Best of You",
+                    "Artist": "Foo Fighters",
+                    "code": "5FZxsHWIvUsmSK1IAvm2pp",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 38,
+            "startzeit": "01:15:34",
+            "songs": [
+                {
+                    "title": "Bling Bling",
+                    "Artist": "Juju",
+                    "code": "3RZmvxJ0QtbZILdFLdwWX8",
+                    "draufgepackt":"R"
+                },
+                {
+                    "title": "BLING BLING",
+                    "Artist": "iKON",
+                    "code": "5FwK2EZJUy6uHEzENJtHQ5",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 39,
+            "startzeit": "01:10:22",
+            "songs": [
+                {
+                    "title": "Levitating",
+                    "Artist": "Dua Lipa",
+                    "code": "5uu0D02efCoFMQiLYFT32e",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Tom's Diner",
+                    "Artist": "AnnenMayKantereit, Giant Rooks",
+                    "code": "0oA9wBGDY4uyILLg4GymWP",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 40,
+            "startzeit": "01:06:35",
+            "songs": [
+                {
+                    "title": "Glücklich",
+                    "Artist": "01099, CRO",
+                    "code": "30pC7KFZ1x8RC0LCvYNJX2",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Pieces",
+                    "Artist": "Sum 41",
+                    "code": "1ibeKVCiXORhvUpMmtsQWq",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 41,
+            "startzeit": "58:18",
+            "songs": [
+                {
+                    "title": "Jonny B. Goode",
+                    "Artist": "Peter Tosh",
+                    "code": "1chzx4gX3jVJOScCjgQGL4",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Hey John",
+                    "Artist": "Mehnersmoos, Maxim K.I.Z",
+                    "code": "3yn9PEZHXqSh188kQ4vaMQ",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 42,
+            "startzeit": "53:20",
+            "songs": [
+                {
+                    "title": "Powerade",
+                    "Artist": "Ion Miles, SiraOne, BHZ",
+                    "code": "6icjOrzM57QrCAtBeWB5WF",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Kids",
+                    "Artist": "MGMT",
+                    "code": "1jJci4qxiYcOHhQR247rEU",
+                    "draufgepackt":"R"
+                },
+                {
+                    "title": "Opposite of Adults",
+                    "Artist": "Chiddy Bang",
+                    "code": "22wKQbMH8n7wZfso2VcLJL",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 43,
+            "startzeit": "01:04:09",
+            "songs": [
+                {
+                    "title": "Blasserdünnerjunge macht sein Job",
+                    "Artist": "POL1Z1STENS0HN a.k.a. Jan Böhmermann",
+                    "code": "047OpPzzcJgW88cTOKv2QY",
+                    "draufgepackt":"R"
+                },
+                {
+                    "title": "All Rise",
+                    "Artist": "Blue",
+                    "code": "7jley98gCQFueQ5MCaFWIb",
+                    "draufgepackt":"J"
+                }
+            ]
+        },
+        {
+            "folgenId": 44,
+            "startzeit": "01:08:02",
+            "songs": [
+                {
+                    "title": "Everything Went Black",
+                    "Artist": "The Black Dahlia Murder",
+                    "code": "1LRi0Km3V44DeCiwfRNr5l",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 45,
+            "startzeit": "01:05:44",
+            "songs": [
+                {
+                    "title": "Rasselbande",
+                    "Artist": "OTPendia, bella bazz, OT",
+                    "code": "7sxn16XyaEr1K8WxYrfJ2I",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Ohne Benzin",
+                    "Artist": "Domiziana",
+                    "code": "3a0F2N6rXJSibQTp77xH4f",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 46,
+            "startzeit": "01:15:48",
+            "songs": [
+                {
+                    "title": "Beichte",
+                    "Artist": "Julien Bam",
+                    "code": "2uQ30aq82tR0xeZskWjTgN",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "House of Memories",
+                    "Artist": "Panic! At The Disco",
+                    "code": "2DgdHcjWmO3qd50RzuBLgZ",
+                    "draufgepackt":"R"
+                }
+            ]
+        }
+    ]
+}
+  
