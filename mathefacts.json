@@ -148,20 +148,6 @@
       "endzeit": "01:08:48"
     },
     {
-      "folgenId": 24,
-      "thema": "",
-      "beschreibung": "",
-      "startzeit": "00:00:00",
-      "endzeit": "00:00:00"
-    },
-    {
-      "folgenId": 25,
-      "thema": "",
-      "beschreibung": "",
-      "startzeit": "00:00:00",
-      "endzeit": "00:00:00"
-    },
-    {
       "folgenId": 26,
       "thema": "Ramanujan das Mathe-Wunder",
       "beschreibung": "Ramanujan hat eine Formelsammlung gefunden und hat daraus weitere Formeln erfunden, von denen der Großteil neue Entdeckungen waren.",
@@ -176,32 +162,11 @@
       "endzeit": "00:58:21"
     },
     {
-      "folgenId": 28,
-      "thema": "Kein Fact",
-      "beschreibung": "",
-      "startzeit": "00:00:00",
-      "endzeit": "00:00:00"
-    },
-    {
       "folgenId": 29,
       "thema": "Größenverhältnisse von Unendlichkeiten (aleph number)",
       "beschreibung": "Unendlichkeiten reeller Zahlen sind größer als rationale Unendlichkeiten.",
       "startzeit": "00:45:02",
       "endzeit": "00:58:39"
-    },
-    {
-      "folgenId": 30,
-      "thema": "Kein Fact",
-      "beschreibung": "",
-      "startzeit": "00:00:00",
-      "endzeit": "00:00:00"
-    },
-    {
-      "folgenId": 31,
-      "thema": "Kein Fact",
-      "beschreibung": "",
-      "startzeit": "00:00:00",
-      "endzeit": "00:00:00"
     },
     {
       "folgenId": 32,
