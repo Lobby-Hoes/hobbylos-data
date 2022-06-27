@@ -777,7 +777,54 @@
                     "Artist": "Panic! At The Disco",
                     "code": "2DgdHcjWmO3qd50RzuBLgZ",
                     "draufgepackt":"R"
-                }
+          },
+          {
+            "folgenId": 47,
+            "startzeit": "1:00:50",
+            "songs": [
+                {
+                    "title": "Swalla",
+                    "Artist": "Jason Derulo, Nicki Minaj, Ty Dolla $ing",
+                    "code": "6kex4EBAj0WHXDKZMEJaaF",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Word Up!",
+                    "Artist": "Korn",
+                    "code": "1pHPpLVH2XEN0xYRoQs4wq",
+                    "draufgepackt":"R"
+          },
+          {
+            "folgenId": 48,
+            "startzeit": "1:12:05",
+            "songs": [
+                {
+                    "title": "Stayin` Alive",
+                    "Artist": "Bee Gees",
+                    "code": "4UDmDIqJIbrW0hMBQMFOsM",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Running Up That Hill (A deal with God",
+                    "Artist": "Kate Bush",
+                    "code": "75FEaRjZTKLhTrFGsfMUXR",
+                    "draufgepackt":"R"
+          },
+          {
+            "folgenId": 49,
+            "startzeit": "1:13:37",
+            "songs": [
+                {
+                    "title": "Glimpse of Us",
+                    "Artist": "Joji",
+                    "code": "6xGruZOHLs39ZbVccQTuPZ",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "First Date",
+                    "Artist": "blink-182",
+                    "code": "1fJFuvU2ldmeAm5nFIHcPP",
+                    "draufgepackt":"R"
             ]
         }
     ]
