@@ -272,6 +272,27 @@
       "beschreibung": "Im 18. Jahrhundert war Anders Celsius Professor an einer Uni in Uppsala. Er nutzte eine Skala auf der Wasser bei 0 Grad am Kochen war und bei 100 gefroren. Zu dem Zeitpunkt gab es über 30 verschiedene Thermometerskalen. Irgendwann gab es die Skala, wie wir sie heute kennen und alle haben behauptet, dass die von ihnen erfunden wurde. Jen Pier Christin hatte diese Skala nachweislich als erster benutzt. Die Skala hieß damals Zentigrad. Ein internationales Institut hat die Skala dann zu Celsius umbenannt, da in einem Buch stand, dass Celsius die Skala erfunden hätte.",
       "startzeit": "01:06:32",
       "endzeit": "01:15:48"
+    },
+    {
+      "folgenId": 47,
+      "thema": "Muhammad ibn Musa al-Khwarizmi hat die Null in Europa big gemacht",
+      "beschreibung": "Muhammad ibn Musa al-Khwarizmi war viel am wallen in Bagdad. Er war Mitglied im „Haus der Weisheit“. al-Khwarizmi war ein allgemein gelehrter. Er liebte Mathematik. Algebra hat der stark geprägt. Das Dezimalsystem hat er vorgestellt und führte damit die Null ein. Es gab schon Inder, die mit Null gerechnet haben, aber er hat es big gemacht. 300 Jahre später checken Mitteleuropäer erst, wie geil das Zahlensystem ist. Sein Name wurde als Algorythmi übersetzt. Das Wort Ziffer kommt vom Arabischen Wort für Null.",
+      "startzeit": "01:06:32",
+      "endzeit": "01:00:50"
+    },
+    {
+      "folgenId": 48,
+      "thema": "Überblick über Crazy Zahlen",
+      "beschreibung": "Ganz früher haben die Neandertaler mal statt 1 Stein 2-3-4… Steine gesagt. Das war schon ein großer Schritt. Danach wurde mit Findern gezählt, was natürlich auf 10 begrenz ist. Dann wurde in Knochen geritzt und 3000vChr wurden von den Babyloniern 59 Ziffern benutzt. Die Inder hatten dann irgendwann 10 Ziffern mit denen seither gerechnet wird. Die Ägypter haben dann irgendwann den Bruchstrich erfunden, der so aussah wie ein Auge. Nach und nach wurden dann Rationale Zahlen, Irrationale Zahlen und Unendlichkeit entdeckt (Die Inder hatten 5 Unendlichkeiten). Einem griechen ist aufgefallen, dass es negative Zahlen gibt. Dann wurde erst die Null so big und Newton hat noch eine unendlich kleine Zahl entdeckt. Als letztes wurden die Komplexen Zahlen (Wurzel aus negativen Zahlen) entdeckt.",
+      "startzeit": "00:54:28",
+      "endzeit": "01:12:05"
+    },
+    {
+      "folgenId": 49,
+      "thema": "Früher war der Wettbewerb in der Mathematik Crazy",
+        "beschreibung": "Mathelehrer von Leonardo Da Vinci meinte, dass es für Polynom Gleichungen 3. grades keine Lösungen gibt. Scipione hat eine Lösung dafür gefunden. Die Lösung hat er 20 Jahre für sich behalten. Auf dem Sterbebett hat er es Antonio erzählt. Antonio war kein guter Mathematiker. Er fordert aber Nicolo, der einen guten Posten hat, zum Mathe-Duell heraus. Antonio verliert das Duell komplett. Nicolo erhält Gerolano wie er es gelöst hat. Gerolano entwickelt die Lösung noch weiter. Gerolano will es gerne veröffentlichen und spricht mit dem Stiefsohn von Scipione. Dadurch kann er es dann veröffentlicht.",
+      "startzeit": "01:00:33",
+      "endzeit": "01:13:36"
     }
   ]
 }

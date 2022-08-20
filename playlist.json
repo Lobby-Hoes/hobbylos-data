@@ -779,6 +779,60 @@
                     "draufgepackt":"R"
                 }
             ]
+        },
+        {
+            "folgenId": 47,
+            "startzeit": "01:00:55",
+            "songs": [
+                {
+                    "title": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+                    "Artist": "Jason Derulo",
+                    "code": "6kex4EBAj0WHXDKZMEJaaF",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Word Up!",
+                    "Artist": "Korn",
+                    "code": "1pHPpLVH2XEN0xYRoQs4wq",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 48,
+            "startzeit": "01:12:09",
+            "songs": [
+                {
+                    "title": "Stayin' Alive",
+                    "Artist": "Bee Gees",
+                    "code": "4UDmDIqJIbrW0hMBQMFOsM",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Running Up That Hill (A Deal With God)",
+                    "Artist": "Kate Bush",
+                    "code": "75FEaRjZTKLhTrFGsfMUXR",
+                    "draufgepackt":"R"
+                }
+            ]
+        },
+        {
+            "folgenId": 49,
+            "startzeit": "01:13:38",
+            "songs": [
+                {
+                    "title": "Glimpse of Us",
+                    "Artist": "Joji",
+                    "code": "6xGruZOHLs39ZbVccQTuPZ",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "First Date",
+                    "Artist": "blink-182",
+                    "code": "1fJFuvU2ldmeAm5nFIHcPP",
+                    "draufgepackt":"R"
+                }
+            ]
         }
     ]
 }
