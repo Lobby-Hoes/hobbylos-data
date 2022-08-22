@@ -833,6 +833,24 @@
                     "draufgepackt":"R"
                 }
             ]
+        },
+        {
+            "folgenId": 50,
+            "startzeit": "01:03:38",
+            "songs": [
+                {
+                    "title": "Flieg Hoch",
+                    "Artist": "Chakülan",
+                    "code": "6z6j7CedStrvf2ZmF5uWJZ",
+                    "draufgepackt":"J"
+                },
+                {
+                    "title": "Better Together",
+                    "Artist": "Jack Johnson",
+                    "code": "2iXdwVdzA0KrI2Q0iZNJbX",
+                    "draufgepackt":"R"
+                }
+            ]
         }
     ]
 }
