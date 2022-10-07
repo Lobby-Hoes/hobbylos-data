@@ -293,6 +293,34 @@
         "beschreibung": "Mathelehrer von Leonardo Da Vinci meinte, dass es für Polynom Gleichungen 3. grades keine Lösungen gibt. Scipione hat eine Lösung dafür gefunden. Die Lösung hat er 20 Jahre für sich behalten. Auf dem Sterbebett hat er es Antonio erzählt. Antonio war kein guter Mathematiker. Er fordert aber Nicolo, der einen guten Posten hat, zum Mathe-Duell heraus. Antonio verliert das Duell komplett. Nicolo erhält Gerolano wie er es gelöst hat. Gerolano entwickelt die Lösung noch weiter. Gerolano will es gerne veröffentlichen und spricht mit dem Stiefsohn von Scipione. Dadurch kann er es dann veröffentlicht.",
       "startzeit": "01:00:33",
       "endzeit": "01:13:36"
+    },
+    {
+      "folgenId": 50,
+      "thema": "Erfindung des Rubiks Cube",
+        "beschreibung": "Ernö Rubik war ein Bildhauer und Architekt. 1974 hat der den Rubiks Cube erfunden und selbst eine Monat gebraucht, um ihn zu lösen. Es gibt verschieden große Würfel. Bei ein Würfel mit 2x2 Kästchen gibt es 3,6 Millionen Kombinationen. Ein normal großer Würfel mit 3x3 Kästchen hat 43.252.003.274.489.856 mögliche Kombinationen. Ein Würfel mit 7x7 Kästchen hat 10^160 Kombinationen. Man kann alle möglichen Kombinationen in maximal 20 Schritten lösen.",
+      "startzeit": "00:57:16",
+      "endzeit": "01:11:25"
+    },
+    {
+      "folgenId": 54,
+      "thema": "Deutsche sprechen die Zahl 21 dumm aus!",
+        "beschreibung": "Alle sagen zuerst die erste Ziffer und dann die zweite. Außer den Deutschen. Bei Zahlen unter 20 haben es noch relativ viele Länder, aber ab der Zahl 20 haben es fast keine mehr. Studien beweisen, dass es für mehr Fehler sorgt. Es könnte an Martin Luther liegen, da er die Bibel übersetzt hat und es dabei einfach festgelegte.",
+      "startzeit": "01:01:03",
+      "endzeit": "01:15:29"
+    },
+    {
+      "folgenId": 56,
+      "thema": "Das Gefangenendilemma",
+        "beschreibung": "2 Gefangene wurden gefasst und werden getrennt voneinander verhört. Sie können entweder den anderen verraten oder nichts sagen. Aber sie wissen nicht, wie sich der ander entscheidet. Wenn beide nichts sagen, bekommen beide nur eine kleine Strafe. Wenn der eine was sagt und der andere nicht, bekommt der, der was gesagt hat, eine geringere Strafe als der, der nichts gesagt hat. Wenn beide was sagen, bekommen beide eine mittelgroße Strafe. Egoistisch gesehen ist es für beide besser, den anderen zu verraten, aber als Ganzes betrachtet ist es für beide besser, wenn keiner etwas sagt.",
+      "startzeit": "01:00:19",
+      "endzeit": "01:11:22"
+    },
+    {
+      "folgenId": 58,
+      "thema": "Schrödingers Katze",
+        "beschreibung": "Sein voller Name ist Erwin Rudolf Josef Alexander Schrödinger. Fast alle denken, dass es bei Schrödingers Katze darum geht, ob die Katze halb tot oder lebendig ist. Es geht aber darum, dass die Katze gleichzeitig tot und lebendig ist. Die Katze ist die ganze Zeit in einem Zwischenzustand. Erst durch die Messung nimmt die Katze einen der beiden Zustände an. Schrödingers Katze zeigt, dass dies zwar bei Quanten so ist, jedoch nie in der für uns wahrnehmbaren Realität sein wird.",
+      "startzeit": "00:56:22",
+      "endzeit": "01:10:20"
     }
   ]
 }
