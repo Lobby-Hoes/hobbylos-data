@@ -30,7 +30,7 @@
     },
     {
       "folgenId": 7,
-      "thema": "Satz des Pythagoras geklaut?",
+      "thema": "Satz des Pythagoras gestohlen?",
       "beschreibung": "Die Griechen haben lediglich den berühmten Satz zum ersten Mal allgemein bewiesen. Euklid war hierbei der erste Bekannte.",
       "startzeit": "00:22:37",
       "endzeit": "00:26:17"
@@ -59,7 +59,7 @@
     {
       "folgenId": 11,
       "thema": "Visualisierung der Fakultät von 52",
-      "beschreibung": "Visualisierung von 52 Fakultät.",
+      "beschreibung": "Stell dir vor, du stellst einen Timer, der 52! in Sekunden runter zähl. Was meinst du kannst du in dieser Zeit tun? Du könntest dich an den Äquator stellen und alle 1 Mrd. Jahre einen einzigen Schritt machen. Wenn du einmal um die Erde rum bist, nimmst du einen Tropfen aus dem Pazifik. Danach gehst du wieder deinen Weg um den Äquator. Nach der 2. Runde nimmst du wieder einen Tropfen und so weiter. Ist der Pazifik leer, legst du ein Blatt Papier auf den Boden und füllst den Pazifik wieder auf. Nun das gleiche Spiel immer und immer wieder, bis der Stapel bis zur Sonne geht. Wenn man das wiederholt ist gerade mal 1/3 der Zeit vergangen.",
       "startzeit": "00:40:28",
       "endzeit": "00:48:30"
     },
@@ -73,7 +73,7 @@
     {
       "folgenId": 13,
       "thema": "Fliesen in Fünfecken zusammenlegen ohne Lücken",
-      "beschreibung": "Marjorie Rice hat als Hausfrau neue Arten von Fünfecken entdeckt, die man lückenlos aneinander legen kann.",
+      "beschreibung": "Marjorie Rice hat als Hausfrau neue Arten von Fünfecken entdeckt, die man lückenlos aneinanderlegen kann.",
       "startzeit": "00:38:09",
       "endzeit": "00:47:33"
     },
@@ -170,8 +170,8 @@
     },
     {
       "folgenId": 32,
-      "thema": "die Enigma Verschlüsselungsmaschine",
-      "beschreibung": "Nachrichten wurden damit im zweiten ww verschlüsselt und es wurde eine Entschlüsselungsmaschine gebaut.",
+      "thema": "Die Enigma Verschlüsselungsmaschine",
+      "beschreibung": "Nachrichten wurden damit im zweiten Weltkrieg verschlüsselt und es wurde eine Entschlüsselungsmaschine gebaut.",
       "startzeit": "00:50:35",
       "endzeit": "01:01:14"
     },
@@ -241,21 +241,21 @@
     {
       "folgenId": 42,
       "thema": "Schaltjahre",
-      "beschreibung": "Die Römer hatten 10 Monate, haben zwei dazugenommen und bei dem einen mal ein paar mehr und mal ein paar weniger Tage gezählt.",
+      "beschreibung": "Die Römer hatten 10 Monate, haben zwei dazu genommen und bei dem einen mal ein paar mehr und mal ein paar weniger Tage gezählt.",
       "startzeit": "00:39:43",
       "endzeit": "00:53:20"
     },
     {
       "folgenId": 43,
       "thema": "Generieren von Informationen durch einen Brute-Force Ansatz",
-      "beschreibung": "Eine Bücherei in der jede mögliche Zeichenfolge generiert werden kann und eine Festplatte auf der jede mögliche Melodie generiert wird.",
+      "beschreibung": "Eine Bücherei, in der jede mögliche Zeichenfolge generiert werden kann und eine Festplatte, auf der jede mögliche Melodie generiert wird.",
       "startzeit": "00:52:37",
       "endzeit": "01:04:09"
     },
     {
       "folgenId": 44,
       "thema": "Summe aller natürlichen Zahlen",
-      "beschreibung": "Die Summe aller natürlichen Zahlen ist -1/12.",
+      "beschreibung": "Eine der bemerkenswertesten Gleichungen der Wissenschaft besagt, dass der Summe aller natürlichen Zahlen – die Summe von 1, 2, 3 und so weiter bis ins Unendliche – der Wert -1/12 zugewiesen werden.",
       "startzeit": "01:06:34",
       "endzeit": "01:07:27"
     },
@@ -276,7 +276,7 @@
     {
       "folgenId": 47,
       "thema": "Muhammad ibn Musa al-Khwarizmi hat die Null in Europa big gemacht",
-      "beschreibung": "Muhammad ibn Musa al-Khwarizmi war viel am wallen in Bagdad. Er war Mitglied im „Haus der Weisheit“. al-Khwarizmi war ein allgemein gelehrter. Er liebte Mathematik. Algebra hat der stark geprägt. Das Dezimalsystem hat er vorgestellt und führte damit die Null ein. Es gab schon Inder, die mit Null gerechnet haben, aber er hat es big gemacht. 300 Jahre später checken die Mitteleuropäer erst, wie geil das Zahlensystem ist. Sein Name wurde als Algorithmi übersetzt. Das Wort Ziffer kommt vom Arabischen Wort für Null.",
+      "beschreibung": "Muhammad ibn Musa al-Khwarizmi war viel am wallen in Bagdad. Er war Mitglied im Haus der Weisheit. al-Khwarizmi war ein allgemein gelehrter. Er liebte Mathematik. Algebra hat der stark geprägt. Das Dezimalsystem hat er vorgestellt und führte damit die Null ein. Es gab schon Inder, die mit Null gerechnet haben, aber er hat es big gemacht. 300 Jahre später checken die Mitteleuropäer erst, wie geil das Zahlensystem ist. Sein Name wurde als Algorithmi übersetzt. Das Wort Ziffer kommt vom Arabischen Wort für Null.",
       "startzeit": "01:06:32",
       "endzeit": "01:00:50"
     },
@@ -297,7 +297,7 @@
     {
       "folgenId": 50,
       "thema": "Erfindung des Rubiks Cube",
-        "beschreibung": "Ernö Rubik war ein Bildhauer und Architekt. 1974 hat der den Rubiks Cube erfunden und selbst eine Monat gebraucht, um ihn zu lösen. Es gibt verschieden große Würfel. Bei ein Würfel mit 2x2 Kästchen gibt es 3,6 Millionen Kombinationen. Ein normal großer Würfel mit 3x3 Kästchen hat 43.252.003.274.489.856 mögliche Kombinationen. Ein Würfel mit 7x7 Kästchen hat 10^160 Kombinationen. Man kann alle möglichen Kombinationen in maximal 20 Schritten lösen.",
+        "beschreibung": "Ernö Rubik war ein Bildhauer und Architekt. 1974 hat der den Rubiks Cube erfunden und selbst einen Monat gebraucht, um ihn zu lösen. Es gibt verschieden große Würfel. Bei einem Würfel mit 2x2 Kästchen gibt es 3,6 Millionen Kombinationen. Ein normal großer Würfel mit 3x3 Kästchen hat 43.252.003.274.489.856 mögliche Kombinationen. Ein Würfel mit 7x7 Kästchen hat 10^160 Kombinationen. Man kann alle möglichen Kombinationen in maximal 20 Schritten lösen.",
       "startzeit": "00:57:16",
       "endzeit": "01:11:25"
     },
