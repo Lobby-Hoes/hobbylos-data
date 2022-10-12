@@ -38,14 +38,14 @@
     {
       "folgenId": 8,
       "thema": "Millennium-Probleme / die Poincaré-Vermutung",
-      "beschreibung": "Jede einfach zusammenhängende, kompakte, berandete, 3-dimensionale Mannigfaltigkeit ist homöomorph zur 3-Sphäre.",
+      "beschreibung": "Ein geometrisches Objekt kann, solange es kein Loch hat, zu einer Kugel deformiert werden. Und das nicht nur bei einer Zweidimensionalen Oberfläche im dreidimensionalen Raum, sondern auch für eine dreidimensionale Oberfläche im vierdimensionalen Raum.",
       "startzeit": "00:47:57",
       "endzeit": "00:57:42"
     },
     {
       "folgenId": 9,
       "thema": "Satz von Borsuk-Ulam",
-      "beschreibung": "Zwei Punkte, die in genau entgegengesetzten Richtungen vom Mittelpunkt einer n-Sphäre in den n-dimensionalen euklidischen Raum entfernt liegen, sind bei stetigen Funktionen gleich.",
+      "beschreibung": "Auf der Welt gibt es immer irgendwelche zwei genau entgegengesetzten  Punkte (genau entgegengesetzt vom Mittelpunkt der Erde), bei denen exakt die gleiche Temperatur und Luftdruck herrscht. Der Satz ist bewiesen für alle stetigen Frunktionen im euklidischen n-dimensionalen Raum.",
       "startzeit": "00:20:45",
       "endzeit": "00:24:57"
     },
@@ -87,7 +87,7 @@
     {
       "folgenId": 15,
       "thema": "Die Zahl Googol",
-      "beschreibung": "Eine 1 mit einhundert 0-en. Google ist danach benannt. Ihr Firmensitz heißt Googleplex, benannt nach der Zahl googolplex. Eine 1 mit googol-vielen 0-en. +Größenvergleich.",
+      "beschreibung": "Eine 1 mit einhundert 0-en. Google ist danach benannt. Ihr Firmensitz heißt Googleplex, benannt nach der Zahl Googolplex. Eine 1 mit Googol Nullen.",
       "startzeit": "00:53:41",
       "endzeit": "00:58:24"
     },
@@ -108,7 +108,7 @@
     {
       "folgenId": 18,
       "thema": "Die krasseste Zahl",
-      "beschreibung": "Die 73 kann in verschiedenen Schreibweisen als besonders bezeichnet werden (Beweis der Sheldon-Vermutung).",
+      "beschreibung": "Die 73 hat viele coole Eigenschaften, die sie besonders machten, z.B. Mirpzahl, (absolute, permutierbare) Primzahl, Palindrom bei Binärdarstellung etc. (Beweis der Sheldon-Vermutung).",
       "startzeit": "00:58:14",
       "endzeit": "01:07:36"
     },
@@ -122,7 +122,7 @@
     {
       "folgenId": 20,
       "thema": "Wie wurde Pi herausgefunden?",
-      "beschreibung": "Zuerst probierte man Näherungen mit Polygonen, dann kam Newton und fand eine bessere Methode.",
+      "beschreibung": "Zuerst probierte man Näherungen mit Polygonen, dann kam Newton mit einer unedlichen Reihe von Zahlen, die er gefunden hat.",
       "startzeit": "00:58:00",
       "endzeit": "01:10:36"
     },
@@ -136,49 +136,49 @@
     {
       "folgenId": 22,
       "thema": "Zipfsches Gesetz",
-      "beschreibung": "Ein Modell, mit dessen Hilfe man bei bestimmten Größen, die in eine Rangfolge gebracht werden, deren Wert aus ihrem Rang abschätzen kann.",
+      "beschreibung": "Ein Modell, das dabei hilf den Wert bestimmter Größen abzuschätzen. Dies passiert anhand des Ranges einer Größe, da diese vorher in eine Rangfolge gebracht wurden.",
       "startzeit": "00:51:16",
       "endzeit": "01:03:51"
     },
     {
       "folgenId": 23,
       "thema": "Computer können manchmal nicht zählen",
-      "beschreibung": "Kosmische Strahlung kann beim Treffen eines PCs ein Bit flippen und dieser ändert den Wert. Oder Server sind zu langsam.",
+      "beschreibung": "Kosmische Strahlung kann beim Treffen eines PCs ein Bit flippen und dessen Wert ändern.",
       "startzeit": "00:55:25",
       "endzeit": "01:08:48"
     },
     {
       "folgenId": 26,
       "thema": "Ramanujan das Mathe-Wunder",
-      "beschreibung": "Ramanujan hat eine Formelsammlung gefunden und daraus weitere Formeln erfunden, von denen der Großteil neue Entdeckungen machte.",
+      "beschreibung": "Ramanujan hat eine Formelsammlung gefunden und hat auf Basis dieser weitere Formeln erfunden, von denen der Grßteil neue Entdeckungen waren.",
       "startzeit": "00:56:36",
       "endzeit": "01:09:07"
     },
     {
       "folgenId": 27,
       "thema": "Unendlich ist keine Zahl sondern ein Konzept",
-      "beschreibung": "Visualisierung anhand von Hilberts Hotel.",
+      "beschreibung": "Unendlich ist keine Zahl sondern ein Konzept (Hilberts Hotel).",
       "startzeit": "00:39:39",
       "endzeit": "00:58:21"
     },
     {
       "folgenId": 29,
       "thema": "Größenverhältnisse von Unendlichkeiten (aleph number)",
-      "beschreibung": "Unendlichkeiten reeller Zahlen sind größer als rationale Unendlichkeiten.",
+      "beschreibung": "Manche Unendlichkeiten sind größer als andere. Auch wenn die Vorstellung schwierig ist, hat die Mathematik Konzepte von unterschiedlich großen Unendlichkeiten.",
       "startzeit": "00:45:02",
       "endzeit": "00:58:39"
     },
     {
       "folgenId": 32,
       "thema": "Die Enigma Verschlüsselungsmaschine",
-      "beschreibung": "Nachrichten wurden damit im zweiten Weltkrieg verschlüsselt und es wurde eine Entschlüsselungsmaschine gebaut.",
+      "beschreibung": "Im Zweiten Weltkrieg nutzten die Nazis die Enigma Maschine, um ihre Nachrichten zu verschlüsseln und damit sicher zu übertragen. Alan Turing gelang es, eine Computer ähnliche Maschine zu bauen, um die Nachrichten zu entschlüsseln und rettete damit vielen Millionen Menschen das Leben.",
       "startzeit": "00:50:35",
       "endzeit": "01:01:14"
     },
     {
       "folgenId": 33,
       "thema": "Menschen sind kacke in Zufälligkeiten",
-      "beschreibung": "Menschen haben immer einen Bezug zu dem vermeintlich zufälligen Gedanken.",
+      "beschreibung": "Wir strugglen manchmal damit, Wahrscheinlichkeiten einschätzen und handeln nach bestimmten Pattern, wenn wir eigentlich denken zufällig zu handeln. Der Spotify Shuffle ist deswegen heute absichtlich nicht mehr zufällig, um zufällig zu wirken.",
       "startzeit": "00:41:31",
       "endzeit": "00:53:45"
     },
@@ -192,42 +192,42 @@
     {
       "folgenId": 35,
       "thema": "Egocentric bias",
-      "beschreibung": "Dinge, die man selbst tut, überschätzt man mehr als Ursachen von Dingen.",
+      "beschreibung": "Dinge, die man selbst tut, überschätzt man mehr als extrinsische Ursachen.",
       "startzeit": "00:52:22",
       "endzeit": "01:11:34"
     },
     {
       "folgenId": 36,
       "thema": "Leben wir in einer Simulation?",
-      "beschreibung": "1. Fall. Menschen sterben, bevor es möglich ist, 2. Keiner hat Bock auf Simulationen oder 3. Wir leben in einer Simulation.",
+      "beschreibung": "1. Nein, Menschen sterben, bevor es möglich ist 2. Ja, wir leben bereits in einer Simulation",
       "startzeit": "00:46:42",
       "endzeit": "01:05:20"
     },
     {
       "folgenId": 37,
       "thema": "Fermi Paradoxon",
-      "beschreibung": "Wir haben keine Aliens entdeckt, obwohl es Möglichkeiten für anderes Leben gibt.",
+      "beschreibung": "Aufgrund des Alters und Größe des Universums sollte Leben auch außerhalb der Erde verbreitet sein. Aber, wenn es Aliens gibt, warum sind sie nicht hier?",
       "startzeit": "00:48:56",
       "endzeit": "01:00:45"
     },
     {
       "folgenId": 38,
-      "thema": "Das kann doch kein Zufall sein…",
-      "beschreibung": "Etwas wird als kein Zufall betitelt, da Menschen in Informationen Muster erkennen. Noch dazu erkennt man eher eine Bestätigung als einen Widerspruch und wertet diese stärker. Wenn etwas im Einzelfall unwahrscheinlich ist, ist es aufs Allgemeine sehr wahrscheinlich.",
+      "thema": "Zufälle",
+      "beschreibung": "Menschen denken manchmal 'das kann doch kein Zufall sein', da sie evolutionär bedingt in Informationen Muster erkennen (Apophenia). Außerdem sorgen der 'Selection Bias' und der 'Confirmation Bias' dafür, dass Menschen sich eher auf Dinge fokussieren, die in ihr Weltbild passen, und das Gegenteil wird eher ignoriert.",
       "startzeit": "01:02:08",
       "endzeit": "01:15:33"
     },
     {
       "folgenId": 39,
       "thema": "Geschichte der Lichtgeschwindigkeit",
-      "beschreibung": "Hippolyte Fizeau hat mit einem Zahnrad und einem Spiegel die Lichtgeschwindigkeit sehr nahe bestimmt. Sie ist außerdem konstant.",
+      "beschreibung": "Hippolyte Fizeau hat mit einem Zahnrad und einem Spiegel die Lichtgeschwindigkeit sehr nahe bestimmt. Außerdem wurde festgestellt, dass die Lichtgeschwindigkeit konstant ist.",
       "startzeit": "00:45:48",
       "endzeit": "01:10:21"
     },
     {
       "folgenId": 40,
-      "thema": "Wer sagt, was ein Meter ist",
-      "beschreibung": "Der Meter ist abgeleitet von Strahlung eines bestimmten Atoms. Die Strahlungsmenge ist immer gleich.",
+      "thema": "Festlegung des Meters",
+      "beschreibung": "Der Meter, wie wir ihn kennen, wurde zunächst abgeleitet von der Wellenlänge einer Strahlung von bestimmten Atomen. Diese ist immer gleich, nicht wie bspw. die Armlänge eines Menschen. Noch genauer wurde der Meter dann bestimmt mit Hilfe der Lichtgeschwindigkeit und der Distanz, die Licht in einer bestimmten Zeit zurücklegt.",
       "startzeit": "00:51:22",
       "endzeit": "01:06:34"
     },
@@ -241,14 +241,14 @@
     {
       "folgenId": 42,
       "thema": "Schaltjahre",
-      "beschreibung": "Die Römer hatten 10 Monate, haben zwei dazu genommen und bei dem einen mal ein paar mehr und mal ein paar weniger Tage gezählt.",
+      "beschreibung": "Das heutige Konzept (alle 4 Jahre, den 29. Februar) gab es nicht immer. Die Römer hatten einen Kalender mit eigener Schaltregel, die sich selbst manchmal ignorierten oder vergessen haben umzusetzen. Unter Julius Cäsar wurde dieser Kalender dann gründlich reformiert.",
       "startzeit": "00:39:43",
       "endzeit": "00:53:20"
     },
     {
       "folgenId": 43,
       "thema": "Generieren von Informationen durch einen Brute-Force Ansatz",
-      "beschreibung": "Eine Bücherei, in der jede mögliche Zeichenfolge generiert werden kann und eine Festplatte, auf der jede mögliche Melodie generiert wird.",
+      "beschreibung": "Eine Bücherei, in der jede Zeichenfolge generiert werden kann und damit alle Bücher, die jemals existieren, enthalten. Eine Festplatte, auf der jede mögliche Melodie generiert wird und somit alle Songs enthält, die jemals existieren.",
       "startzeit": "00:52:37",
       "endzeit": "01:04:09"
     },
@@ -262,42 +262,42 @@
     {
       "folgenId": 45,
       "thema": "Isaac Newton war ein krasser Ficker",
-      "beschreibung": "Isaac Newton hat ein Buch geschrieben, wofür er Analysis erfunden hat. Das Buch hielt er noch eine Weile geheim. In der Zeit kam ein deutscher Wissenschaftler, Gottfried Wilhelm Leibniz, auch auf Analysis und schrieb ebenfalls ein Buch darüber. Dieses veröffentlichte er jedoch, bevor Newton sein Buch veröffentlichte.",
+      "beschreibung": "Isaac Newton hatte die Grundzüge der Infinitesimalrechnung 1666 entwickelt,jedoch erst 1687 veröffentlicht. In der Zwischenzeit kam der deutsche Wissenschaftler Gottfried Wilhelm Leibniz ebenfalls auf 'Analysis situs' und publizierte es noch vor Newton. Dadurch entstand der vielleicht berühmteste Prioritätsstreit der Wissenschaftsgeschichte.",
       "startzeit": "00:55:17",
       "endzeit": "01:05:09"
     },
     {
       "folgenId": 46,
-      "thema": "Anders Celsius hat die Temperaturskala gar nicht erfunden und nicht genutzt",
-      "beschreibung": "Im 18. Jahrhundert war Anders Celsius Professor an einer Uni in Uppsala. Er nutzte eine Skala, auf der Wasser bei 0 Grad am Kochen war und bei 100 gefroren. Zu dem Zeitpunkt gab es über 30 verschiedene Thermometerskalen. Irgendwann gab es die Skala, wie wir sie heute kennen, und alle haben behauptet, dass sie von ihnen erfunden wurde. Jen Pier Christin hatte diese Skala nachweislich als erster benutzt. Die Skala hieß damals Centigrad. Ein internationales Institut hat die Skala dann zu Celsius umbenannt, da in einem Buch stand, dass Celsius die Skala erfunden hätte.",
+      "thema": "Temperaturskala Celsius",
+      "beschreibung": "Anders Celsius legte fest: Siedepunkt von Wasser = 0° und  Gefrierpunkt = 100°. Eine Invertierung dieser Skala wurde nach seinem Tod von J.-P. Christin vorgeschlagen ('Centigrad'). Diese wurde 200 Jahre später Celsius zu Ehren nach ihm umbenannt.",
       "startzeit": "01:06:32",
       "endzeit": "01:15:48"
     },
     {
       "folgenId": 47,
-      "thema": "Muhammad ibn Musa al-Khwarizmi hat die Null in Europa big gemacht",
-      "beschreibung": "Muhammad ibn Musa al-Khwarizmi war viel am wallen in Bagdad. Er war Mitglied im Haus der Weisheit. al-Khwarizmi war ein allgemein gelehrter. Er liebte Mathematik. Algebra hat der stark geprägt. Das Dezimalsystem hat er vorgestellt und führte damit die Null ein. Es gab schon Inder, die mit Null gerechnet haben, aber er hat es big gemacht. 300 Jahre später checken die Mitteleuropäer erst, wie geil das Zahlensystem ist. Sein Name wurde als Algorithmi übersetzt. Das Wort Ziffer kommt vom Arabischen Wort für Null.",
+      "thema": "Abu Dscha'far Muhammad ibn Musa al-Chwarizmi",
+      "beschreibung": "'Ein richtig krasser Ficker'. Er war Mitglied im 'Haus der Weisheit', von seinem Namen leitet sich 'Algorithmus' ab, er leistete bedeutende Beiträge als Geograph und Kartograph, hat Planetenbewegung akurat bemessen, das Dezimalsystem vorgestellt und führte die Ziffer Null ein.",
       "startzeit": "01:06:32",
       "endzeit": "01:00:50"
     },
     {
       "folgenId": 48,
-      "thema": "Überblick über Crazy Zahlen",
-      "beschreibung": "Ganz früher haben die Neandertaler mal statt 1 Stein 2-3-4… Steine gesagt. Das war schon ein großer Schritt. Danach wurde mit Fingern gezählt, was natürlich auf 10 begrenzt ist. Dann wurde in Knochen geritzt und 3000 v. Chr. wurden von den Babyloniern 59 Ziffern benutzt. Die Inder hatten dann irgendwann 10 Ziffern, mit denen seither gerechnet wird. Die Ägypter haben dann irgendwann den Bruchstrich erfunden, der so aussah wie ein Auge. Nach und nach wurden dann rationale Zahlen, irrationale Zahlen und Unendlichkeit entdeckt (Die Inder hatten 5 Unendlichkeiten). Einem griechen ist aufgefallen, dass es negative Zahlen gibt. Dann wurde erst die Null so big und Newton hat noch eine unendlich kleine Zahl entdeckt. Als letztes wurden die komplexen Zahlen (Wurzel aus negativen Zahlen) entdeckt.",
+      "thema": "Historie der Zahlen",
+      "beschreibung": "Steinzeit: '1,2...' -> mit Fingern zählen -> Stiche in Knochen ritzen -> 59 Symbole für Zahlen -> 10 Ziffern- > Bruchstrich erfunden -> natürliche Zahlen -> rationale Zahlen -> irrationale Zahlen (Pi, Wurzel...) -> 5 Arten von Unendlichkeiten -> negative Zahlen -> Einführung der Null -> Newton: unendlich keine Zahl -> Komplexe/imaginäre Zahlen (1+i).",
       "startzeit": "00:54:28",
       "endzeit": "01:12:05"
     },
     {
       "folgenId": 49,
       "thema": "Früher war der Wettbewerb in der Mathematik Crazy",
-        "beschreibung": "Mathelehrer von Leonardo Da Vinci meinte, dass es für Polynomgleichungen 3. Grades keine Lösungen gibt. Scipione hat eine Lösung dafür gefunden. Die Lösung hat er 20 Jahre für sich behalten. Auf dem Sterbebett hat er es Antonio erzählt. Antonio war kein guter Mathematiker. Er fordert aber Nicolo, der einen guten Posten hat, zum Mathe-Duell heraus. Antonio verlor das Duell komplett. Nicolo erhält Gerolamo, wie er es gelöst hat. Gerolamo entwickelt die Lösung noch weiter. Gerolamo will es gerne veröffentlichen und spricht mit dem Stiefsohn von Scipione. Dadurch kann er es dann veröffentlichen.",
+        "beschreibung": "Scipione del Ferro hat als erstes die Lösung gefunden, sie aber nicht veröffentlicht, verriet sie nur Antonio Fior. Dieser fordert Niccolò Tartaglia zum Mathe-Duell heraus, um seinen Posten zu bekommen. Tartaglia war aber so krass, dass er innerhalb von zwei Stunden auch auf die Lösung kam.",
       "startzeit": "01:00:33",
       "endzeit": "01:13:36"
     },
     {
       "folgenId": 50,
       "thema": "Erfindung des Rubiks Cube",
-        "beschreibung": "Ernö Rubik war ein Bildhauer und Architekt. 1974 hat der den Rubiks Cube erfunden und selbst einen Monat gebraucht, um ihn zu lösen. Es gibt verschieden große Würfel. Bei einem Würfel mit 2x2 Kästchen gibt es 3,6 Millionen Kombinationen. Ein normal großer Würfel mit 3x3 Kästchen hat 43.252.003.274.489.856 mögliche Kombinationen. Ein Würfel mit 7x7 Kästchen hat 10^160 Kombinationen. Man kann alle möglichen Kombinationen in maximal 20 Schritten lösen.",
+        "beschreibung": "Ernö Rubik war ein Bildhauer und Architekt. 1974 hat der den Rubiks Cube erfunden und selbst einen Monat gebraucht, um ihn zu lösen. Es gibt verschieden große Würfel. Bei einem Würfel mit 2x2 Kästchen gibt es 3,6 Millionen Kombinationen. Ein normal großer Würfel mit 3x3 Kästchen hat 43.252.003.274.489.856.000 mögliche Kombinationen. Ein Würfel mit 7x7 Kästchen hat 10^160 Kombinationen. Man kann alle möglichen Kombinationen in maximal 20 Schritten lösen.",
       "startzeit": "00:57:16",
       "endzeit": "01:11:25"
     },
