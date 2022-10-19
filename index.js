@@ -9,11 +9,23 @@ const require = createRequire(import.meta.url);
 const folgenJson = require('./folgen.json')
 const mathefactsJson = require('./mathefacts.json')
 const staedtegeschichtenJson = require('./staedtegeschichten.json')
+const playlistJson = require('./playlist.json')
 
 // A schema is a collection of type definitions (hence "typeDefs")
 // that together define the "shape" of queries that are executed against
 // your data.
 const typeDefs = gql`
+    type songs {
+	code: String!
+	draufgepackt: String!
+}
+
+    type Playlist {
+	folgenId: ID!
+	startzeit: String!
+	songs: [songs]!
+    }
+
     type Geschichte {
         titel: String!
         ort: String!
@@ -50,6 +62,7 @@ const typeDefs = gql`
         folgen: [Folge]
         staedtegeschichten: [Staedtegeschichten]
         mathefacts: [Mathefacts]
+	playlist: [Playlist]
     }
 `;
 
@@ -57,6 +70,7 @@ const typeDefs = gql`
 // schema. This resolver retrieves books from the "folgen" array above.
 const resolvers = {
     Query: {
+	playlist: () => playlistJson.data,
         folgen: () => folgenJson.data,
         staedtegeschichten(parent, args, context, info) {
             let geschichten = []
