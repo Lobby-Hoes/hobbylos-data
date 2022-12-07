@@ -335,6 +335,13 @@
         "beschreibung": "Die Zahl 666 stammt aus dem Neuen Testament, dem Teil der Offenbarung des Johannes. 666 steht dabei für den Teufel, der von Kaiser Nero verkörpert wird, da er Christen verfolgte. 666 wird im lateinischen DCLXVI geschrieben, was für Domitius Caesar legatos Xti violenter interfecit, bzw. auf Deutsch: Kaiser Domitius tötete gewaltsam die Gesandten Christi, steht.. Nero trug den Namen Domitius.",
       "startzeit": "00:47:50",
       "endzeit": "01:10:23"
+    },
+	{
+      "folgenId": 72,
+      "thema": "Geburtstagsparadoxon",
+        "beschreibung": "Das Geburtstagsparadoxon ist ein Beispiel dafür, dass bestimmte Wahrscheinlichkeiten (und auch Zufälle) intuitiv häufig falsch geschätzt werden. So befinden sich in einem Raum mindestens 23 Personen, dann ist die Chance, dass zwei oder mehr dieser Personen am gleichen Tag (ohne Beachtung des Jahrganges) Geburtstag haben, größer als 50 %",
+      "startzeit": "01:05:48",
+      "endzeit": "01:15:59"
     }
   ]
 }
