@@ -336,12 +336,19 @@
       "startzeit": "00:47:50",
       "endzeit": "01:10:23"
     },
-	{
+    {
       "folgenId": 72,
       "thema": "Geburtstagsparadoxon",
         "beschreibung": "Das Geburtstagsparadoxon ist ein Beispiel dafür, dass bestimmte Wahrscheinlichkeiten (und auch Zufälle) intuitiv häufig falsch geschätzt werden. So befinden sich in einem Raum mindestens 23 Personen, dann ist die Chance, dass zwei oder mehr dieser Personen am gleichen Tag (ohne Beachtung des Jahrganges) Geburtstag haben, größer als 50 %",
       "startzeit": "01:05:48",
       "endzeit": "01:15:59"
+    },
+    {
+      "folgenId": 96,
+      "thema": "Das Gesetz der großen Zahlen: Jede einstellige Zahl taucht in den meisten Zahlen auf",
+        "beschreibung": "Das Gesetz der großen Zahlen besagt, dass jede einstellige Zahl in einer ausreichend großen Stichprobe mit annähernd gleicher Häufigkeit vorkommt. Aufgrund unseres dezimalen Zahlensystems, das aus zehn verschiedenen Ziffern besteht, werden diese Ziffern in verschiedenen Positionen kombiniert, was dazu führt, dass jede Ziffer in den meisten Zahlen vorkommt. Dieser Effekt wird deutlicher, wenn eine große Anzahl von Zahlen betrachtet wird, und hat Anwendungen in der Statistik und Wahrscheinlichkeitstheorie.",
+      "startzeit": "01:05:57",
+      "endzeit": "01:13:58"
     }
   ]
 }
