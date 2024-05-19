@@ -59,7 +59,7 @@ const typeDefs = gql`
     type Word {
         word: String!
         type: String!
-        explenation: String!
+        explanation: String!
         examples: [String]!
         closeWords: [String]!
     }
