@@ -110,10 +110,13 @@ const resolvers = {
             return facts
         },
         word(parent, args, context, info) {
-            let words = lexikonJson.data
-            if (args.filter && args.filter.word_contains) {words = words.filter(word => word.word.includes(args.filter.word_contains))}
-            return words
-        }
+	    let words = lexikonJson.data;
+	    if (args.filter && args.filter.word_contains) {
+	        const filterLowerCase = args.filter.word_contains.toLowerCase();
+	        words = words.filter(word => word.word.toLowerCase().includes(filterLowerCase));
+	    }
+	    return words;
+	}
     }
 };
 async function startApolloServer() {
