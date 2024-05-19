@@ -73,7 +73,11 @@ const typeDefs = gql`
         staedtegeschichten: [Staedtegeschichten]
         mathefacts: [Mathefacts]
 	    playlist: [Playlist]
-        word: [Word]
+        word(filter: WordFilter): [Word]
+    }
+
+    input WordFilter {
+        word_contains: String
     }
 `;
 
@@ -105,7 +109,11 @@ const resolvers = {
             });
             return facts
         },
-        word: () => lexikonJson.data
+        word(parent, args, context, info) {
+            let words = lexikonJson.data
+            if (args.filter && args.filter.word_contains) {words = words.filter(word => word.word.includes(args.filter.word_contains))}
+            return words
+        }
     }
 };
 async function startApolloServer() {
