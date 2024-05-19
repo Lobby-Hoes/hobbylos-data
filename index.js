@@ -16,14 +16,14 @@ const playlistJson = require('./playlist.json')
 // your data.
 const typeDefs = gql`
     type songs {
-	code: String!
-	draufgepackt: String!
-}
+        code: String!
+        draufgepackt: String!
+    }
 
     type Playlist {
-	folgenId: ID!
-	startzeit: String!
-	songs: [songs]!
+        folgenId: ID!
+        startzeit: String!
+        songs: [songs]!
     }
 
     type Geschichte {
@@ -55,6 +55,15 @@ const typeDefs = gql`
         code: String!
     }
 
+    # Close Words is a string to prevent infinite recursion
+    type Word {
+        word: String!
+        type: String!
+        explenation: String!
+        examples: [String]!
+        closeWords: [String]!
+    }
+
     # The "Query" type is special: it lists all of the available queries that
     # clients can execute, along with the return type for each. In this
     # case, the "folgen" query returns an array of zero or more Folge (defined above).
@@ -62,7 +71,8 @@ const typeDefs = gql`
         folgen: [Folge]
         staedtegeschichten: [Staedtegeschichten]
         mathefacts: [Mathefacts]
-	playlist: [Playlist]
+	    playlist: [Playlist]
+        word: [Word]
     }
 `;
 

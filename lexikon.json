@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "word": "wallen",
+            "type": "verb",
+            "explenation": "Damit ist zu Hause abhängen gemeint bzw. in seinen 4 Wänden (Walls).",
+            "examples": [
+                "Ich bin heute wieder am wallen gewesen.",
+                "Wallen is mega langweilig."
+            ],
+            "close-words": ["walls"]
+        },
+        {
+            "word": "walls",
+            "type": "slang",
+            "explenation": "Kurzform von dem wort wallen.",
+            "examples": [
+                "Ich bin heute walls."
+            ],
+            "close-words": ["wallen"]
+        }
+    ]
+}
