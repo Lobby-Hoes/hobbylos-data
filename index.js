@@ -10,6 +10,7 @@ const folgenJson = require('./folgen.json')
 const mathefactsJson = require('./mathefacts.json')
 const staedtegeschichtenJson = require('./staedtegeschichten.json')
 const playlistJson = require('./playlist.json')
+const lexikonJson = require('./lexikon.json')
 
 // A schema is a collection of type definitions (hence "typeDefs")
 // that together define the "shape" of queries that are executed against
@@ -80,17 +81,14 @@ const typeDefs = gql`
 // schema. This resolver retrieves books from the "folgen" array above.
 const resolvers = {
     Query: {
-	playlist: () => playlistJson.data,
+        playlist: () => playlistJson.data,
         folgen: () => folgenJson.data,
         staedtegeschichten(parent, args, context, info) {
             let geschichten = []
             const folgen = folgenJson.data
-
             staedtegeschichtenJson.data.forEach((staedtegeschichtenFolge) => {
                 const folgeObj = folgen.find(item => item.folgenId === staedtegeschichtenFolge.folgenId)
-                geschichten.push(Object.assign(staedtegeschichtenFolge, {
-                            "folge": folgeObj
-                        }
+                geschichten.push(Object.assign(staedtegeschichtenFolge, {"folge": folgeObj}
                     )
                 )
             });
@@ -99,23 +97,19 @@ const resolvers = {
         mathefacts(parent, args, context, info) {
             let facts = []
             const folgen = folgenJson.data
-
             mathefactsJson.data.forEach((mathefactsFolge) => {
                 const folgeObj = folgen.find(item => item.folgenId === mathefactsFolge.folgenId)
-                facts.push(Object.assign(mathefactsFolge, {
-                            "folge": folgeObj
-                        }
+                facts.push(Object.assign(mathefactsFolge, {"folge": folgeObj}
                     )
                 )
             });
             return facts
-        }
+        },
+        word: () => lexikonJson.data
     }
 };
-
 async function startApolloServer() {
     const configurations = {
-        // Note: You may need sudo to run on port 443
         production: {ssl: true, port: 443, hostname: 'data.hobbylos.online'},
         development: {ssl: false, port: 4000, hostname: 'localhost'},
     };
@@ -128,40 +122,18 @@ async function startApolloServer() {
         csrfPrevention: true,
     });
     await server.start();
-
     const app = express();
     server.applyMiddleware({app});
-
-    // Create the HTTPS or HTTP server, per configuration
     let httpServer;
-
-    if (config.ssl) {
-        // Assumes certificates are in a .ssl folder off of the package root.
-        // Make sure these files are secured.
-        httpServer = https.createServer(
-            {
-                key: fs.readFileSync(`//ssl/data.hobbylos.online/server.key`),
-                cert: fs.readFileSync(`//ssl/data.hobbylos.online/server.crt`),
-            },
-
-            app,
-        );
-    } else {
-        httpServer = http.createServer(app);
-    }
-
-    await new Promise(resolve =>
-        httpServer.listen({port: config.port}, resolve),
-    );
-
+    if (config.ssl) {httpServer = https.createServer({key: fs.readFileSync(`//ssl/data.hobbylos.online/server.key`),cert: fs.readFileSync(`//ssl/data.hobbylos.online/server.crt`),},app,);}
+    else {httpServer = http.createServer(app);}
+    await new Promise(resolve =>httpServer.listen({port: config.port}, resolve),);
     console.log(
         '🚀 Server ready at',
         `http${config.ssl ? 's' : ''}://${config.hostname}:${config.port}${
             server.graphqlPath
         }`,
     );
-
     return {server, app};
 }
-
 startApolloServer()
