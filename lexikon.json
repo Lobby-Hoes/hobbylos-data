@@ -18,6 +18,15 @@
                 "Ich bin heute walls."
             ],
             "closeWords": ["wallen"]
+        },
+        {
+            "word": "medium ugly",
+            "type": "adjektiv",
+            "explanation": "Gleiche Bedeutung wie \"nicht so schön\".",
+            "examples": [
+                "Das Bild ist medium ugly."
+            ],
+            "closeWords": []
         }
     ]
 }
