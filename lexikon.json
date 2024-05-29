@@ -27,6 +27,26 @@
                 "Das Bild ist medium ugly."
             ],
             "closeWords": []
+        },
+        {
+            "word": "lobbyhoe",
+            "type": "nomen",
+            "explanation": "Eine Lobbyhoe ist ein treuer Zuhörer/eine treue Zuhörerin des Podcasts",
+            "examples": [
+                "Ich gab dem Podcast fünf Sterne, deshalb bin ich eine erhabene Lobbyhoe.",
+                "Wir sind Lobbyhoes!"
+            ],
+            "closeWords": ["lobbyfoe"]
+        },
+        {
+            "word": "lobbyfoe",
+            "type": "nomen",
+            "explanation": "Eine Person die versucht Rezo und Julien Bam gegeneinander auszuspielen bzw. diese zu trennen. Auch oft als Gegenteil zu Lobbyhoe verwendet.",
+            "examples": [
+                "Du bist so eine Lobbyfoe!",
+                "Die Lobbyfoes versuchen wieder Rezo und Ju zu spalten."
+            ],
+            "closeWords": ["lobbyhoe"]
         }
     ]
 }
