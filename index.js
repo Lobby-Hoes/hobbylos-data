@@ -12,9 +12,6 @@ const staedtegeschichtenJson = require('./staedtegeschichten.json')
 const playlistJson = require('./playlist.json')
 const lexikonJson = require('./lexikon.json')
 
-// A schema is a collection of type definitions (hence "typeDefs")
-// that together define the "shape" of queries that are executed against
-// your data.
 const typeDefs = gql`
     type songs {
         code: String!
@@ -136,7 +133,7 @@ async function startApolloServer() {
     const app = express();
     server.applyMiddleware({app});
     let httpServer;
-    if (config.ssl) {httpServer = https.createServer({key: fs.readFileSync(`//ssl/data.hobbylos.online/server.key`),cert: fs.readFileSync(`//ssl/data.hobbylos.online/server.crt`),},app,);}
+    if (config.ssl) {httpServer = https.createServer({key: fs.readFileSync(`./ssl/server.key`),cert: fs.readFileSync(`./ssl/server.crt`),},app,);}
     else {httpServer = http.createServer(app);}
     await new Promise(resolve =>httpServer.listen({port: config.port}, resolve),);
     console.log(
