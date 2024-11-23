@@ -1,0 +1,10 @@
+services:
+  server:
+    build:
+      context: .
+    environment:
+      NODE_ENV: production
+    ports:
+      - "443:443"
+    volumes:
+      - /ssl/data.hobbylos.online:/usr/src/app/ssl
