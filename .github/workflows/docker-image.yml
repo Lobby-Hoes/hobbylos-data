@@ -15,4 +15,4 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Build the Docker image
-      run: docker compose build . --file Dockerfile --tag hobbylos-data:$(date +%s)
+      run: docker compose build . --tag hobbylos-data:$(date +%s)
